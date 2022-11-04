@@ -1,0 +1,661 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S4,2020,2020,2020,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,749696,,,,749696,,780526,,,0
+S4,2020,2020,2020,4,0,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,66462,,,,66462,,395058,,,0
+S4,2020,2020,2020,4,0,2,Export,24,Angola,AGO,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,35,,,,35,,7048,,,0
+S4,2020,2020,2020,4,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1117861,,,,1117861,,2595117,,,0
+S4,2020,2020,2020,4,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,17627640,,,,,,49881650,,,6
+S4,2020,2020,2020,4,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,861129,,,,861129,,14615439,,,0
+S4,2020,2020,2020,4,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1761849,,,,1761849,,7790291,,,0
+S4,2020,2020,2020,4,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,69,,,,69,,122,,,0
+S4,2020,2020,2020,4,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,19095,,,,19095,,894851,,,0
+S4,2020,2020,2020,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,584672,,,,584672,,574176,,,0
+S4,2020,2020,2020,4,0,2,Export,51,Armenia,ARM,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,25000,,,,25000,,20490,,,0
+S4,2020,2020,2020,4,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1030,,,,1030,,35532,,,0
+S4,2020,2020,2020,4,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1696283,,,,1696283,,8383955,,,0
+S4,2020,2020,2020,4,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,2023518,,,,2023518,,34953756,,,0
+S4,2020,2020,2020,4,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,3264181,,,,3264037,,3611222,,,0
+S4,2020,2020,2020,4,0,2,Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,878660,,,,878660,,2451918,,,0
+S4,2020,2020,2020,4,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,2358942,,,,2358942,,10095349,,,0
+S4,2020,2020,2020,4,0,2,Export,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,1,No Quantity,0,,,,,,409285,,,6
+S4,2020,2020,2020,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1130259,,,,1130259,,1982391,,,0
+S4,2020,2020,2020,4,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,22461,,,,22461,,493037,,,0
+S4,2020,2020,2020,4,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,379769,,,,379769,,10345096,,,6
+S4,2020,2020,2020,4,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,4016231,,,,4016394,,6766002,,,6
+S4,2020,2020,2020,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,20726,,,,20726,,54377,,,0
+S4,2020,2020,2020,4,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,5365,,,,5365,,418054,,,0
+S4,2020,2020,2020,4,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,9000,,,,9000,,203169,,,0
+S4,2020,2020,2020,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,172108,,,,172108,,560673,,,0
+S4,2020,2020,2020,4,0,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,168876,,,,168876,,1000800,,,0
+S4,2020,2020,2020,4,0,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,54722,,,,54722,,143945,,,0
+S4,2020,2020,2020,4,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,21724031,,,,21724031,,76321823,,,6
+S4,2020,2020,2020,4,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,4383378,,,,4383378,,66223541,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,124,Canada,CAN,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,175631,,,,175631,,3338223,,,0
+S4,2020,2020,2020,4,0,4,Re-Import,124,Canada,CAN,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,67986,,,,67986,,498799,,,6
+S4,2020,2020,2020,4,0,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,15654,,,,15654,,42029,,,0
+S4,2020,2020,2020,4,0,1,Import,136,Cayman Isds,CYM,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,1,No Quantity,0,,,,,,959333,,,0
+S4,2020,2020,2020,4,0,1,Import,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,14925,,,,14925,,104668,,,0
+S4,2020,2020,2020,4,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,5900,,,,5900,,158870,,,0
+S4,2020,2020,2020,4,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,21503875,,,,21503875,,68745343,,,6
+S4,2020,2020,2020,4,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1702543,,,,1702543,,8612699,,,0
+S4,2020,2020,2020,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,158173,,,,158173,,8676731,,,6
+S4,2020,2020,2020,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,7355964,,,,7355964,,34790907,,,0
+S4,2020,2020,2020,4,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,91413,,,,91413,,3374935,,,0
+S4,2020,2020,2020,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,327999,,,,327999,,1886210,,,0
+S4,2020,2020,2020,4,0,1,Import,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,3151044,,,,3151044,,7582309,,,0
+S4,2020,2020,2020,4,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1138313,,,,1138313,,2008086,,,0
+S4,2020,2020,2020,4,0,2,Export,188,Costa Rica,CRI,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,10499197,,,,10499197,,10278181,,,0
+S4,2020,2020,2020,4,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,4020584,,,,4020584,,5618625,,,0
+S4,2020,2020,2020,4,0,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1880631,,,,1880631,,2739052,,,0
+S4,2020,2020,2020,4,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,147452,,,,147452,,1000707,,,0
+S4,2020,2020,2020,4,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,2883438,,,,2883438,,13710662,,,0
+S4,2020,2020,2020,4,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1761177,,,,1761177,,21364815,,,0
+S4,2020,2020,2020,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,748629,,,,748629,,2383136,,,0
+S4,2020,2020,2020,4,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,29752,,,,29752,,707874,,,0
+S4,2020,2020,2020,4,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,169659,,,,169659,,973242,,,0
+S4,2020,2020,2020,4,0,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,902201,,,,1122201,,1393517,,,0
+S4,2020,2020,2020,4,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,3157039,,,,3079164,,6523634,,,0
+S4,2020,2020,2020,4,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,916630,,,,916630,,1318215,,,0
+S4,2020,2020,2020,4,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,8613772,,,,8613772,,9916731,,,0
+S4,2020,2020,2020,4,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,86319,,,,86319,,243933,,,0
+S4,2020,2020,2020,4,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,2866752,,,,2866752,,3344436,,,0
+S4,2020,2020,2020,4,0,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,31091,,,,31091,,231489,,,0
+S4,2020,2020,2020,4,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,16353,,,,16353,,14800363,,,6
+S4,2020,2020,2020,4,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,1,No Quantity,0,,,,,,26061756,,,6
+S4,2020,2020,2020,4,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,5312157,,,,5312157,,49506708,,,6
+S4,2020,2020,2020,4,0,1,Import,258,French Polynesia,PYF,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,306,,,,306,,12840,,,0
+S4,2020,2020,2020,4,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1045434,,,,1045434,,1281402,,,0
+S4,2020,2020,2020,4,0,2,Export,268,Georgia,GEO,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,480646,,,,480646,,414481,,,0
+S4,2020,2020,2020,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,16385940,,,,16385940,,63688913,,,6
+S4,2020,2020,2020,4,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1616731,,,,1616731,,2407282,,,6
+S4,2020,2020,2020,4,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,2600962,,,,2600962,,3499657,,,0
+S4,2020,2020,2020,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,5,,,,5,,94,,,0
+S4,2020,2020,2020,4,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,177702,,,,177702,,185587,,,0
+S4,2020,2020,2020,4,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,5100,,,,5100,,19833,,,0
+S4,2020,2020,2020,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,3584146,,,,3584146,,10561493,,,0
+S4,2020,2020,2020,4,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,21896,,,,21896,,80097,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,328,Guyana,GUY,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,21896,,,,21896,,80097,,,0
+S4,2020,2020,2020,4,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,2030750,,,,2030750,,2376740,,,0
+S4,2020,2020,2020,4,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,151118,,,,151118,,566444,,,0
+S4,2020,2020,2020,4,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,264410,,,,264410,,766599,,,0
+S4,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1662230,,,,1662230,,16036142,,,0
+S4,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,215000,,,,215000,,505680,,,0
+S4,2020,2020,2020,4,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,216,,,,216,,14506,,,0
+S4,2020,2020,2020,4,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,4136244,,,,4136244,,29417205,,,0
+S4,2020,2020,2020,4,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,676027,,,,676027,,9914501,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,381,Italy,ITA,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,446,,,,446,,34472,,,0
+S4,2020,2020,2020,4,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,951375,,,,951375,,4416839,,,0
+S4,2020,2020,2020,4,0,2,Export,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,37957,,,,37957,,209973,,,0
+S4,2020,2020,2020,4,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1527,,,,1527,,46049,,,0
+S4,2020,2020,2020,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,526778,,,,526778,,15582221,,,0
+S4,2020,2020,2020,4,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,150722,,,,150722,,6847199,,,0
+S4,2020,2020,2020,4,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,9497873,,,,9497873,,12107402,,,0
+S4,2020,2020,2020,4,0,2,Export,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,633525,,,,633525,,928117,,,0
+S4,2020,2020,2020,4,0,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,8448111,,,,8448111,,5046363,,,0
+S4,2020,2020,2020,4,0,2,Export,404,Kenya,KEN,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,570569,,,,570569,,936683,,,0
+S4,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1582379,,,,1582379,,19590888,,,6
+S4,2020,2020,2020,4,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1939661,,,,1939661,,4351171,,,0
+S4,2020,2020,2020,4,0,1,Import,414,Kuwait,KWT,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,331206,,,,331206,,13923517,,,0
+S4,2020,2020,2020,4,0,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,256876,,,,256876,,854380,,,0
+S4,2020,2020,2020,4,0,1,Import,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,5263430,,,,5263430,,6253343,,,0
+S4,2020,2020,2020,4,0,2,Export,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,18850,,,,18850,,373485,,,0
+S4,2020,2020,2020,4,0,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,201,,,,201,,71520,,,0
+S4,2020,2020,2020,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,536113,,,,536113,,923827,,,0
+S4,2020,2020,2020,4,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,88945,,,,88945,,198678,,,0
+S4,2020,2020,2020,4,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1450,,,,1450,,104339,,,0
+S4,2020,2020,2020,4,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,714502,,,,714502,,1662534,,,0
+S4,2020,2020,2020,4,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,641510,,,,641510,,297957,,,0
+S4,2020,2020,2020,4,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,5534,,,,5534,,53908,,,0
+S4,2020,2020,2020,4,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,232350,,,,232350,,482362,,,0
+S4,2020,2020,2020,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,443797,,,,443797,,1128840,,,0
+S4,2020,2020,2020,4,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,883338,,,,883338,,3398483,,,0
+S4,2020,2020,2020,4,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,834740,,,,834740,,1770601,,,0
+S4,2020,2020,2020,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,518,,,,518,,10753,,,0
+S4,2020,2020,2020,4,0,1,Import,478,Mauritania,MRT,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,75852,,,,75852,,1828901,,,0
+S4,2020,2020,2020,4,0,2,Export,478,Mauritania,MRT,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,16202,,,,16202,,476010,,,0
+S4,2020,2020,2020,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,1,No Quantity,0,,,,,,38585841,,,0
+S4,2020,2020,2020,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,6641591,,,,,,18427568,,,6
+S4,2020,2020,2020,4,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,241948,,,,241948,,1164430,,,0
+S4,2020,2020,2020,4,0,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1592303,,,,1592303,,3506085,,,0
+S4,2020,2020,2020,4,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,51701,,,,51701,,113365,,,0
+S4,2020,2020,2020,4,0,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1833796,,,,1833796,,2072698,,,0
+S4,2020,2020,2020,4,0,2,Export,499,Montenegro,MNE,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,70175,,,,70175,,131637,,,0
+S4,2020,2020,2020,4,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,56350,,,,56350,,228562,,,0
+S4,2020,2020,2020,4,0,2,Export,504,Morocco,MAR,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,2151507,,,,2151507,,3048796,,,0
+S4,2020,2020,2020,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,9501,,,,9501,,527410,,,0
+S4,2020,2020,2020,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,268645,,,,268645,,715183,,,0
+S4,2020,2020,2020,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,425948,,,,425948,,12366305,,,0
+S4,2020,2020,2020,4,0,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,2027214,,,,2027214,,2097934,,,0
+S4,2020,2020,2020,4,0,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,981982,,,,981982,,2033963,,,0
+S4,2020,2020,2020,4,0,2,Export,516,Namibia,NAM,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,68950,,,,68950,,87955,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,516,Namibia,NAM,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,66450,,,,66450,,52539,,,0
+S4,2020,2020,2020,4,0,1,Import,524,Nepal,NPL,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,2066200,,,,2066200,,2010351,,,0
+S4,2020,2020,2020,4,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,43018,,,,43018,,4120994,,,6
+S4,2020,2020,2020,4,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,300027,,,,300027,,14562265,,,6
+S4,2020,2020,2020,4,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,17,,,,17,,1700,,,0
+S4,2020,2020,2020,4,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,125484,,,,125484,,1595645,,,0
+S4,2020,2020,2020,4,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,3043,,,,3043,,78020,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,531,,,,531,,41742,,,0
+S4,2020,2020,2020,4,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,3679523,,,,3679523,,5022660,,,0
+S4,2020,2020,2020,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,316404,,,,316404,,1338437,,,0
+S4,2020,2020,2020,4,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,1,No Quantity,0,,,,,,9409824,,,6
+S4,2020,2020,2020,4,0,2,Export,566,Nigeria,NGA,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,26800,,,,26800,,230458,,,0
+S4,2020,2020,2020,4,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,14798612,,,,14798612,,47580373,,,0
+S4,2020,2020,2020,4,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,57985,,,,57985,,865669,,,0
+S4,2020,2020,2020,4,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,282482,,,,282482,,594869,,,0
+S4,2020,2020,2020,4,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,2767101,,,,2767101,,4816602,,,0
+S4,2020,2020,2020,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1872519,,,,1872519,,8944196,,,0
+S4,2020,2020,2020,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,11312243,,,,11312243,,13580130,,,0
+S4,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1302066,,,,1302066,,12527477,,,0
+S4,2020,2020,2020,4,0,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,332109,,,,332109,,6578121,,,0
+S4,2020,2020,2020,4,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,444832,,,,444832,,17014845,,,6
+S4,2020,2020,2020,4,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,15631766,,,,15631766,,28971747,,,6
+S4,2020,2020,2020,4,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,311539,,,,311539,,784081,,,6
+S4,2020,2020,2020,4,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,4636050,,,,4636050,,4342832,,,0
+S4,2020,2020,2020,4,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,2436360,,,,2436360,,138298031,,,0
+S4,2020,2020,2020,4,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,2016682,,,,2016682,,17043909,,,6
+S4,2020,2020,2020,4,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,4026528,,,,4026528,,5379070,,,6
+S4,2020,2020,2020,4,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,205791,,,,205791,,553271,,,0
+S4,2020,2020,2020,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,19750,,,,19750,,143461,,,0
+S4,2020,2020,2020,4,0,2,Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1676000,,,,1676000,,2523955,,,0
+S4,2020,2020,2020,4,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,504355,,,,504355,,2306604,,,0
+S4,2020,2020,2020,4,0,2,Export,686,Senegal,SEN,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,101370,,,,101370,,271136,,,0
+S4,2020,2020,2020,4,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1326232,,,,1326232,,5154828,,,0
+S4,2020,2020,2020,4,0,2,Export,688,Serbia,SRB,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,4176527,,,,4176527,,21698071,,,0
+S4,2020,2020,2020,4,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,50240,,,,50240,,193345,,,0
+S4,2020,2020,2020,4,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,52105,,,,52105,,4639715,,,0
+S4,2020,2020,2020,4,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,10385792,,,,10385792,,30422442,,,6
+S4,2020,2020,2020,4,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,54977,,,,54977,,5628614,,,0
+S4,2020,2020,2020,4,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1837,,,,1837,,1390987,,,0
+S4,2020,2020,2020,4,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1273920,,,,1273920,,4628389,,,6
+S4,2020,2020,2020,4,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,2367,,,,2367,,124660,,,6
+S4,2020,2020,2020,4,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1535636,,,,1535636,,2287037,,,0
+S4,2020,2020,2020,4,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1031510,,,,1031510,,12101613,,,0
+S4,2020,2020,2020,4,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,18065467,,,,18065467,,38946198,,,0
+S4,2020,2020,2020,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,9511199,,,,9511199,,13471116,,,0
+S4,2020,2020,2020,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,10237,,,,10237,,42189,,,0
+S4,2020,2020,2020,4,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,5045073,,,,5045073,,10008668,,,0
+S4,2020,2020,2020,4,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,4166188,,,,4166188,,19450633,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,724,Spain,ESP,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,4,,,,4,,20230,,,0
+S4,2020,2020,2020,4,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,3722381,,,,3722381,,6047238,,,0
+S4,2020,2020,2020,4,0,1,Import,748,Eswatini,SWZ,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,474135,,,,474135,,846150,,,0
+S4,2020,2020,2020,4,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,12536379,,,,12536379,,18879824,,,6
+S4,2020,2020,2020,4,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,463853,,,,463853,,8238458,,,6
+S4,2020,2020,2020,4,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1545732,,,,1545732,,39459477,,,6
+S4,2020,2020,2020,4,0,4,Re-Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,2252,,,,2252,,55514,,,0
+S4,2020,2020,2020,4,0,1,Import,762,Tajikistan,TJK,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,180200,,,,180200,,543271,,,0
+S4,2020,2020,2020,4,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1434279,,,,1434279,,23351044,,,0
+S4,2020,2020,2020,4,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,7210,,,,7210,,257611,,,0
+S4,2020,2020,2020,4,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,288864,,,,1598921,,1664612,,,0
+S4,2020,2020,2020,4,0,2,Export,768,Togo,TGO,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,7539,,,,33607,,164619,,,0
+S4,2020,2020,2020,4,0,1,Import,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,153508,,,,153508,,1189940,,,0
+S4,2020,2020,2020,4,0,2,Export,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,3400,,,,3400,,711,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,3400,,,,3400,,711,,,0
+S4,2020,2020,2020,4,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1895953,,,,1895953,,8654312,,,0
+S4,2020,2020,2020,4,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,57894,,,,57894,,406575,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,7454,,,,7454,,291129,,,0
+S4,2020,2020,2020,4,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,432707,,,,432707,,8494096,,,0
+S4,2020,2020,2020,4,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,5547797,,,,5547797,,5624804,,,0
+S4,2020,2020,2020,4,0,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,458891,,,,458891,,995931,,,0
+S4,2020,2020,2020,4,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,248406,,,,248406,,4234489,,,0
+S4,2020,2020,2020,4,0,2,Export,804,Ukraine,UKR,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,77136,,,,77136,,302691,,,0
+S4,2020,2020,2020,4,0,1,Import,807,North Macedonia,MKD,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1913144,,,,1913144,,2251223,,,0
+S4,2020,2020,2020,4,0,2,Export,807,North Macedonia,MKD,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,92000,,,,92000,,114084,,,0
+S4,2020,2020,2020,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1420527,,,,,,4034266,,,6
+S4,2020,2020,2020,4,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,4599225,,,,4599225,,8166968,,,0
+S4,2020,2020,2020,4,0,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,72362,,,,72362,,345109,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,275,,,,275,,15841,,,0
+S4,2020,2020,2020,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,21696084,,,,21696084,,209429499,,,0
+S4,2020,2020,2020,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,25647300,,,,25647300,,264687566,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,1056801,,,,1056801,,12109102,,,0
+S4,2020,2020,2020,4,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,57620879,,,,57620879,,35277087,,,6
+S4,2020,2020,2020,4,0,2,Export,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,10226780,,,,10226780,,7869930,,,0
+S4,2020,2020,2020,4,0,1,Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,723920,,,,723920,,3700791,,,0
+S4,2020,2020,2020,4,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,2248159,,,,2248159,,6640842,,,0
+S4,2020,2020,2020,4,0,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,5931,Propellent powders and other prepared explosives,8,Weight in kilograms,5728830,,,,5728830,,17090763,,,6
+S4,2020,2020,2020,4,0,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,,,4337202,,,0
+S4,2020,2020,2020,4,0,2,Export,24,Angola,AGO,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,78,,,,78,,43,,,0
+S4,2020,2020,2020,4,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,14737,,2681782,,,0
+S4,2020,2020,2020,4,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,,,239666625,,,6
+S4,2020,2020,2020,4,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,,,15141260,,,6
+S4,2020,2020,2020,4,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,5,Number of items,24219,,,,59034,,10794903,,,6
+S4,2020,2020,2020,4,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,150,,3858,,,4
+S4,2020,2020,2020,4,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,16,,,,16,,1162,,,0
+S4,2020,2020,2020,4,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,28013,,801502,,,0
+S4,2020,2020,2020,4,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,201,,43550,,,2
+S4,2020,2020,2020,4,0,2,Export,52,Barbados,BRB,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,16,,,,16,,850,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,52,Barbados,BRB,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,16,,,,16,,850,,,0
+S4,2020,2020,2020,4,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,946441,,37929885,,,2
+S4,2020,2020,2020,4,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,1366486,,819810141,,,2
+S4,2020,2020,2020,4,0,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,0,,597,,,0
+S4,2020,2020,2020,4,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,1296,,459124,,,0
+S4,2020,2020,2020,4,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,43549,,879785,,,2
+S4,2020,2020,2020,4,0,2,Export,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,83854,,3373094,,,2
+S4,2020,2020,2020,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,719779,,151375402,,,6
+S4,2020,2020,2020,4,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,200,,795,,,2
+S4,2020,2020,2020,4,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,833167,,59379353,,,0
+S4,2020,2020,2020,4,0,4,Re-Import,76,Brazil,BRA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,5,Number of items,1,,,,27,,315308,,,0
+S4,2020,2020,2020,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,1929,,154259,,,2
+S4,2020,2020,2020,4,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,997,,,,,,40535,,,6
+S4,2020,2020,2020,4,0,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,5,,,,,,492,,,6
+S4,2020,2020,2020,4,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,5,Number of items,717854,,,,2148,,178573,,,4
+S4,2020,2020,2020,4,0,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,6687,,2248970,,,2
+S4,2020,2020,2020,4,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,,,1050472993,,,0
+S4,2020,2020,2020,4,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,,,1096558058,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,124,Canada,CAN,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,,,43385007,,,0
+S4,2020,2020,2020,4,0,4,Re-Import,124,Canada,CAN,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,,,11983049,,,0
+S4,2020,2020,2020,4,0,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,5,Number of items,11,,,,10,,5139,,,2
+S4,2020,2020,2020,4,0,1,Import,136,Cayman Isds,CYM,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,,,4923,,,0
+S4,2020,2020,2020,4,0,1,Import,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,398065,,16114221,,,0
+S4,2020,2020,2020,4,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,1322,,232005,,,6
+S4,2020,2020,2020,4,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,5,Number of items,34,,,,0,,997009,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,5,Number of items,34,,,,0,,997009,,,0
+S4,2020,2020,2020,4,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,20614,,2174685,,,4
+S4,2020,2020,2020,4,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,,,3929,,,0
+S4,2020,2020,2020,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,1906,,,,1906,,261980,,,6
+S4,2020,2020,2020,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,1346451,,,,1346451,,14136550,,,6
+S4,2020,2020,2020,4,0,4,Re-Import,156,China,CHN,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,227,,,,227,,15042,,,0
+S4,2020,2020,2020,4,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,206798,,16016390,,,2
+S4,2020,2020,2020,4,0,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,10805,,2941905,,,0
+S4,2020,2020,2020,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,57210,,1345288,,,2
+S4,2020,2020,2020,4,0,1,Import,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,107939,,9170750,,,0
+S4,2020,2020,2020,4,0,2,Export,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,5,Number of items,722,,,,500562,,14356585,,,4
+S4,2020,2020,2020,4,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,5332,,946936,,,6
+S4,2020,2020,2020,4,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,10248,,563122,,,2
+S4,2020,2020,2020,4,0,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,595324,,118422575,,,2
+S4,2020,2020,2020,4,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,228,,200825,,,0
+S4,2020,2020,2020,4,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,5,Number of items,93,,,,166,,164183,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,5,Number of items,93,,,,166,,164183,,,0
+S4,2020,2020,2020,4,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,48525,,6241665,,,6
+S4,2020,2020,2020,4,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,634300,,122385506,,,6
+S4,2020,2020,2020,4,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,3315139,,236384429,,,0
+S4,2020,2020,2020,4,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,936447,,24360768,,,0
+S4,2020,2020,2020,4,0,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,979,,584534,,,2
+S4,2020,2020,2020,4,0,2,Export,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,5,Number of items,20000,,,,20000,,52400,,,0
+S4,2020,2020,2020,4,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,1163,,109488,,,0
+S4,2020,2020,2020,4,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,4384,,671744,,,2
+S4,2020,2020,2020,4,0,2,Export,222,El Salvador,SLV,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,2550,,,,2550,,70836,,,0
+S4,2020,2020,2020,4,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,75327,,1776804,,,2
+S4,2020,2020,2020,4,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,316859,,34586444,,,0
+S4,2020,2020,2020,4,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,8441,,966383,,,0
+S4,2020,2020,2020,4,0,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,1541,,505178,,,4
+S4,2020,2020,2020,4,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,2485,,762027,,,6
+S4,2020,2020,2020,4,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,3063,,12144764,,,6
+S4,2020,2020,2020,4,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,188923,,,,188923,,3384414,,,6
+S4,2020,2020,2020,4,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,28726,,,,28726,,3415057,,,6
+S4,2020,2020,2020,4,0,1,Import,258,French Polynesia,PYF,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,746,,90508,,,2
+S4,2020,2020,2020,4,0,2,Export,258,French Polynesia,PYF,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,1379,,165821,,,0
+S4,2020,2020,2020,4,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,17,,,,17,,811,,,0
+S4,2020,2020,2020,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,30087,,51439,,,0
+S4,2020,2020,2020,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,231661,,16836991,,,6
+S4,2020,2020,2020,4,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,448526,,106140346,,,6
+S4,2020,2020,2020,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,227,,7446,,,2
+S4,2020,2020,2020,4,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,29592,,5503967,,,2
+S4,2020,2020,2020,4,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,4,,,,4,,1,,,0
+S4,2020,2020,2020,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,5,Number of items,121,,,,140,,1168,,,0
+S4,2020,2020,2020,4,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,2733,,361862,,,0
+S4,2020,2020,2020,4,0,2,Export,340,Honduras,HND,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,41,,,,41,,45,,,0
+S4,2020,2020,2020,4,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,72,,24106,,,4
+S4,2020,2020,2020,4,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,68,,,,68,,5887,,,0
+S4,2020,2020,2020,4,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,781,,144435,,,2
+S4,2020,2020,2020,4,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,10,,1794,,,2
+S4,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,2482743,,535764605,,,0
+S4,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,1113,,310615,,,0
+S4,2020,2020,2020,4,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,,,3202149,,,6
+S4,2020,2020,2020,4,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,25,,2009,,,6
+S4,2020,2020,2020,4,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,69976,,5467000,,,6
+S4,2020,2020,2020,4,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,31537,,6825347,,,0
+S4,2020,2020,2020,4,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,213763,,63125234,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,381,Italy,ITA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,66,,,,66,,12423,,,0
+S4,2020,2020,2020,4,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,71486,,3405505,,,0
+S4,2020,2020,2020,4,0,2,Export,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,9900,,2302530,,,0
+S4,2020,2020,2020,4,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,1948,,515896,,,2
+S4,2020,2020,2020,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,55543,,17778143,,,2
+S4,2020,2020,2020,4,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,1145,,,,1145,,3881522,,,6
+S4,2020,2020,2020,4,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,136621,,11376264,,,6
+S4,2020,2020,2020,4,0,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,516804,,19990179,,,2
+S4,2020,2020,2020,4,0,2,Export,404,Kenya,KEN,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,560,,46981,,,2
+S4,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,724483,,108892805,,,6
+S4,2020,2020,2020,4,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,4443855,,429735908,,,0
+S4,2020,2020,2020,4,0,1,Import,414,Kuwait,KWT,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,43474,,2580227,,,2
+S4,2020,2020,2020,4,0,2,Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,598,,,,598,,121644,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,598,,,,598,,121644,,,0
+S4,2020,2020,2020,4,0,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,20397,,3752327,,,2
+S4,2020,2020,2020,4,0,2,Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,1,,,,1,,99,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,1,,,,1,,99,,,0
+S4,2020,2020,2020,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,5,Number of items,212,,,,5644,,170531,,,2
+S4,2020,2020,2020,4,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,2094841,,39449838,,,6
+S4,2020,2020,2020,4,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,110,,3321,,,2
+S4,2020,2020,2020,4,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,2184019,,307590280,,,2
+S4,2020,2020,2020,4,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,103161,,2440263,,,2
+S4,2020,2020,2020,4,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,12864,,1051572,,,2
+S4,2020,2020,2020,4,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,5,Number of items,341,,,,5756,,347224,,,0
+S4,2020,2020,2020,4,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,16247,,1771227,,,2
+S4,2020,2020,2020,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,107917,,6913220,,,2
+S4,2020,2020,2020,4,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,32728,,5306687,,,4
+S4,2020,2020,2020,4,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,,,368376,,,4
+S4,2020,2020,2020,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,1462,,174537,,,0
+S4,2020,2020,2020,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,5,Number of items,1,,,,1,,4146,,,0
+S4,2020,2020,2020,4,0,1,Import,478,Mauritania,MRT,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,309,,24159,,,2
+S4,2020,2020,2020,4,0,2,Export,478,Mauritania,MRT,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,10000,,5377,,,2
+S4,2020,2020,2020,4,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,51,,1486,,,2
+S4,2020,2020,2020,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,,,75705,,,0
+S4,2020,2020,2020,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,170,,,,,,14764,,,6
+S4,2020,2020,2020,4,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,58137,,1401867,,,6
+S4,2020,2020,2020,4,0,2,Export,490,"Other Asia, nes",,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,102090,,2951327,,,2
+S4,2020,2020,2020,4,0,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,5,Number of items,304,,,,1305,,692247,,,0
+S4,2020,2020,2020,4,0,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,171183,,8796354,,,2
+S4,2020,2020,2020,4,0,2,Export,499,Montenegro,MNE,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,5,Number of items,7000,,,,82536,,2920101,,,2
+S4,2020,2020,2020,4,0,1,Import,500,Montserrat,MSR,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,0,,,,0,,80,,,0
+S4,2020,2020,2020,4,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,40,,3549,,,2
+S4,2020,2020,2020,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,,,148151,,,6
+S4,2020,2020,2020,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,1,,98,,,2
+S4,2020,2020,2020,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,1495234,,136201647,,,0
+S4,2020,2020,2020,4,0,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,24839,,763706,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,512,Oman,OMN,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,24839,,763706,,,0
+S4,2020,2020,2020,4,0,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,8447,,287774,,,2
+S4,2020,2020,2020,4,0,2,Export,516,Namibia,NAM,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,0,,46975,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,516,Namibia,NAM,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,0,,46975,,,0
+S4,2020,2020,2020,4,0,1,Import,524,Nepal,NPL,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,106731,,34901450,,,4
+S4,2020,2020,2020,4,0,2,Export,524,Nepal,NPL,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,,,45309,,,0
+S4,2020,2020,2020,4,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,4601853,,171454766,,,6
+S4,2020,2020,2020,4,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,2518224,,125461029,,,6
+S4,2020,2020,2020,4,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,33,,15217,,,2
+S4,2020,2020,2020,4,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,,,3975198,,,6
+S4,2020,2020,2020,4,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,,,1279960,,,6
+S4,2020,2020,2020,4,0,3,Re-Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,,,735639,,,6
+S4,2020,2020,2020,4,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,192,,13364,,,2
+S4,2020,2020,2020,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,345038,,6947425,,,2
+S4,2020,2020,2020,4,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,2787571,,257489026,,,2
+S4,2020,2020,2020,4,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,986214,,151765759,,,0
+S4,2020,2020,2020,4,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,307757,,92752462,,,0
+S4,2020,2020,2020,4,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,5073,,1073423,,,6
+S4,2020,2020,2020,4,0,2,Export,586,Pakistan,PAK,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,51185,,561782,,,6
+S4,2020,2020,2020,4,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,639,,29947,,,0
+S4,2020,2020,2020,4,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,5,Number of items,2437,,,,5267,,1115898,,,2
+S4,2020,2020,2020,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,12420,,2273739,,,0
+S4,2020,2020,2020,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,1,,,,1,,15,,,0
+S4,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,5,Number of items,130661,,,,66859,,24800246,,,4
+S4,2020,2020,2020,4,0,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,24459,,6972914,,,6
+S4,2020,2020,2020,4,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,1459918,,75550241,,,6
+S4,2020,2020,2020,4,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,1412161,,67919456,,,6
+S4,2020,2020,2020,4,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,895789,,58955172,,,6
+S4,2020,2020,2020,4,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,656,,140129,,,4
+S4,2020,2020,2020,4,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,392557,,57836944,,,6
+S4,2020,2020,2020,4,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,110593,,8997074,,,6
+S4,2020,2020,2020,4,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,,,21,,,0
+S4,2020,2020,2020,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,5,Number of items,118,,,,231,,66184,,,0
+S4,2020,2020,2020,4,0,1,Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,5,Number of items,6,,,,7,,3036,,,2
+S4,2020,2020,2020,4,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,716595,,40852700,,,2
+S4,2020,2020,2020,4,0,2,Export,686,Senegal,SEN,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,7100,,301929,,,2
+S4,2020,2020,2020,4,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,1763,,405359,,,0
+S4,2020,2020,2020,4,0,2,Export,688,Serbia,SRB,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,55995,,4671067,,,0
+S4,2020,2020,2020,4,0,2,Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,750,,5676,,,2
+S4,2020,2020,2020,4,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,,,773850,,,6
+S4,2020,2020,2020,4,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,,,14975004,,,6
+S4,2020,2020,2020,4,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,2495249,,20413491,,,6
+S4,2020,2020,2020,4,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,647023,,52352641,,,2
+S4,2020,2020,2020,4,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,65975,,7674457,,,4
+S4,2020,2020,2020,4,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,,,50966017,,,4
+S4,2020,2020,2020,4,0,3,Re-Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,5,Number of items,234,,,,,,342944,,,4
+S4,2020,2020,2020,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,2523,,52703,,,2
+S4,2020,2020,2020,4,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,1121499,,106660138,,,0
+S4,2020,2020,2020,4,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,1639799,,140768846,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,724,Spain,ESP,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,2000,,658840,,,0
+S4,2020,2020,2020,4,0,4,Re-Import,724,Spain,ESP,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,2909,,209773,,,0
+S4,2020,2020,2020,4,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,7091,,84574,,,2
+S4,2020,2020,2020,4,0,1,Import,748,Eswatini,SWZ,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,5,Number of items,14,,,,414,,3017,,,0
+S4,2020,2020,2020,4,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,,,2476898,,,0
+S4,2020,2020,2020,4,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,,,103145,,,0
+S4,2020,2020,2020,4,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,0,,105601595,,,6
+S4,2020,2020,2020,4,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,3594578,,484460707,,,6
+S4,2020,2020,2020,4,0,4,Re-Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,0,,323385,,,0
+S4,2020,2020,2020,4,0,1,Import,762,Tajikistan,TJK,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,11924,,989445,,,4
+S4,2020,2020,2020,4,0,2,Export,762,Tajikistan,TJK,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,5,Number of items,7,,,,,,852651,,,4
+S4,2020,2020,2020,4,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,12023995,,1699040627,,,6
+S4,2020,2020,2020,4,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,8828269,,1249977821,,,0
+S4,2020,2020,2020,4,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,233042,,5694172,,,0
+S4,2020,2020,2020,4,0,1,Import,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,13392,,1976919,,,0
+S4,2020,2020,2020,4,0,2,Export,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,57,,,,57,,207,,,0
+S4,2020,2020,2020,4,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,16190,,4098642,,,6
+S4,2020,2020,2020,4,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,21063,,2270164,,,2
+S4,2020,2020,2020,4,0,3,Re-Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,19982,,2155302,,,2
+S4,2020,2020,2020,4,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,4014,,1542629,,,0
+S4,2020,2020,2020,4,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,717743,,85991594,,,0
+S4,2020,2020,2020,4,0,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,2499930,,33882327,,,2
+S4,2020,2020,2020,4,0,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,280,,,,280,,297,,,0
+S4,2020,2020,2020,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,,,15263243,,,6
+S4,2020,2020,2020,4,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,8,Weight in kilograms,135225,,,,135225,,2221893,,,0
+S4,2020,2020,2020,4,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,19772,,1124841,,,0
+S4,2020,2020,2020,4,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,2391,,108552,,,0
+S4,2020,2020,2020,4,0,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,9616,,23886,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,5,Number of items,1,,,,9600,,22612,,,0
+S4,2020,2020,2020,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,13385924,,1309955485,,,6
+S4,2020,2020,2020,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,43687944,,1612959462,,,4
+S4,2020,2020,2020,4,0,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,1856632,,26358054,,,4
+S4,2020,2020,2020,4,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,96772,,2963802,,,2
+S4,2020,2020,2020,4,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,2033,,347455,,,0
+S4,2020,2020,2020,4,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,1247743,,50193473,,,2
+S4,2020,2020,2020,4,0,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,8911,Armoured fighting vehicles and arms of war,1,No Quantity,0,,,,135000,,803227,,,2
+S4,2020,2020,2020,4,0,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,,,13600607,,,0
+S4,2020,2020,2020,4,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,180416,,,,188921,,4063111,,,0
+S4,2020,2020,2020,4,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,170046,,,,,,9029998,,,4
+S4,2020,2020,2020,4,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,1473,,,,12413,,1942084,,,4
+S4,2020,2020,2020,4,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,435004,,30446239,,,6
+S4,2020,2020,2020,4,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,224307,,32022669,,,2
+S4,2020,2020,2020,4,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,393,,,,609,,73700,,,4
+S4,2020,2020,2020,4,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,667,,,,874,,285152,,,2
+S4,2020,2020,2020,4,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,211,,90424,,,2
+S4,2020,2020,2020,4,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,94726,,,,307494,,34715351,,,0
+S4,2020,2020,2020,4,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,55395,,,,315240,,47002496,,,0
+S4,2020,2020,2020,4,0,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,10,,,,,,7585,,,0
+S4,2020,2020,2020,4,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,39054,,,,206115,,15316875,,,0
+S4,2020,2020,2020,4,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,24515,,1659702,,,2
+S4,2020,2020,2020,4,0,2,Export,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,2496,,184644,,,2
+S4,2020,2020,2020,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,3172,,,,25498,,354523,,,2
+S4,2020,2020,2020,4,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,448149,,,,563658,,15407921,,,2
+S4,2020,2020,2020,4,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,1087053,,,,1291751,,167268461,,,4
+S4,2020,2020,2020,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,762,,,,10644,,51171,,,2
+S4,2020,2020,2020,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,5,,,,30,,496,,,0
+S4,2020,2020,2020,4,0,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,2247,,558472,,,2
+S4,2020,2020,2020,4,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,889768,,,,,,109038782,,,0
+S4,2020,2020,2020,4,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,644231,,,,480065,,43485691,,,4
+S4,2020,2020,2020,4,0,3,Re-Export,124,Canada,CAN,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,390227,,,,255891,,11607056,,,4
+S4,2020,2020,2020,4,0,4,Re-Import,124,Canada,CAN,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,77,,,,258,,40511,,,4
+S4,2020,2020,2020,4,0,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,121,,,,50,,30643,,,2
+S4,2020,2020,2020,4,0,1,Import,136,Cayman Isds,CYM,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,721,,,,1713,,209476,,,6
+S4,2020,2020,2020,4,0,1,Import,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,10,,,,872,,655,,,2
+S4,2020,2020,2020,4,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,10768,,,,8831,,477888,,,4
+S4,2020,2020,2020,4,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,1028,,,,189,,10074,,,4
+S4,2020,2020,2020,4,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,168792,,,,116026,,6023257,,,4
+S4,2020,2020,2020,4,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,0,,,,2,,623,,,6
+S4,2020,2020,2020,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,8497,,,,10815,,5995534,,,0
+S4,2020,2020,2020,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,10087525,,,,11851633,,143927937,,,4
+S4,2020,2020,2020,4,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,294290,,11318833,,,2
+S4,2020,2020,2020,4,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,0,,,,200,,115,,,2
+S4,2020,2020,2020,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,19,,1529,,,2
+S4,2020,2020,2020,4,0,1,Import,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,236,,,,,,631554,,,4
+S4,2020,2020,2020,4,0,2,Export,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,1,,,,9088,,22603,,,0
+S4,2020,2020,2020,4,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,9633,,,,18176,,820695,,,2
+S4,2020,2020,2020,4,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,54271,,,,39663,,3155161,,,0
+S4,2020,2020,2020,4,0,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,452,,,,716,,83708,,,0
+S4,2020,2020,2020,4,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,3338,,,,12995,,3096965,,,0
+S4,2020,2020,2020,4,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,2876,,,,10394,,1926346,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,2876,,,,10394,,1926346,,,0
+S4,2020,2020,2020,4,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,3430672,,114557560,,,4
+S4,2020,2020,2020,4,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,16662130,,367711334,,,6
+S4,2020,2020,2020,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,66,,,,1000,,4301,,,2
+S4,2020,2020,2020,4,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,258550,,,,430537,,17706005,,,0
+S4,2020,2020,2020,4,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,219624,,,,312668,,10299312,,,0
+S4,2020,2020,2020,4,0,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,,,213166,,,6
+S4,2020,2020,2020,4,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,720,,,,940,,49652,,,0
+S4,2020,2020,2020,4,0,2,Export,218,Ecuador,ECU,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,18,,,,20,,3400,,,2
+S4,2020,2020,2020,4,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,4060,,,,14012,,337717,,,2
+S4,2020,2020,2020,4,0,2,Export,222,El Salvador,SLV,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,176,,294,,,2
+S4,2020,2020,2020,4,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,5420,,22105,,,2
+S4,2020,2020,2020,4,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,106429,,,,106271,,4047075,,,0
+S4,2020,2020,2020,4,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,80773,,,,83701,,3078725,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,233,Estonia,EST,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,50214,,,,51367,,1400238,,,0
+S4,2020,2020,2020,4,0,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,1505,,,,1248,,54199,,,4
+S4,2020,2020,2020,4,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,11267,,,,12549,,7603157,,,6
+S4,2020,2020,2020,4,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,10994,,,,13660,,60020415,,,6
+S4,2020,2020,2020,4,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,1067095,,,,1325373,,73739155,,,4
+S4,2020,2020,2020,4,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,226251,,,,231831,,13342185,,,4
+S4,2020,2020,2020,4,0,1,Import,258,French Polynesia,PYF,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,1090,,,,3215,,157572,,,4
+S4,2020,2020,2020,4,0,2,Export,258,French Polynesia,PYF,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,20,,,,117,,11060,,,0
+S4,2020,2020,2020,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,3793,,,,6750,,1591,,,0
+S4,2020,2020,2020,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,1160456,,,,1348448,,69233731,,,4
+S4,2020,2020,2020,4,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,1794663,,,,1579374,,158524960,,,6
+S4,2020,2020,2020,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,34,,,,,,14,,,4
+S4,2020,2020,2020,4,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,69862,,,,45303,,3477858,,,0
+S4,2020,2020,2020,4,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,4618,,,,8995,,891962,,,0
+S4,2020,2020,2020,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,179,,,,1517,,32614,,,2
+S4,2020,2020,2020,4,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,13745,,,,75856,,2208943,,,2
+S4,2020,2020,2020,4,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,3,,40,,,2
+S4,2020,2020,2020,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,16,,,,405,,8660,,,0
+S4,2020,2020,2020,4,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,18148,,,,43917,,1188030,,,2
+S4,2020,2020,2020,4,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,5636,,,,,,555499,,,4
+S4,2020,2020,2020,4,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,1274,,,,,,132217,,,4
+S4,2020,2020,2020,4,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,0,,5623239,,,4
+S4,2020,2020,2020,4,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,0,,24078,,,0
+S4,2020,2020,2020,4,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,2455,,,,10510,,1204294,,,2
+S4,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,356782,,,,51228,,23348392,,,2
+S4,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,24,,1132,,,0
+S4,2020,2020,2020,4,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,24940,,,,37439,,1697189,,,4
+S4,2020,2020,2020,4,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,59,,,,609,,192362,,,0
+S4,2020,2020,2020,4,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,96681,,,,281852,,17985335,,,0
+S4,2020,2020,2020,4,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,489620,,,,1371160,,303083408,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,381,Italy,ITA,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,2,,,,6,,14620,,,0
+S4,2020,2020,2020,4,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,3529,,,,4769,,229001,,,2
+S4,2020,2020,2020,4,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,4493,,3282953,,,2
+S4,2020,2020,2020,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,43912,,6065026,,,2
+S4,2020,2020,2020,4,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,745032,,56506833,,,2
+S4,2020,2020,2020,4,0,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,85522,,4085026,,,6
+S4,2020,2020,2020,4,0,2,Export,404,Kenya,KEN,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,21,,60,,,2
+S4,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,130438,,,,41133,,2792194,,,4
+S4,2020,2020,2020,4,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,11996,,,,33659,,3966589,,,0
+S4,2020,2020,2020,4,0,1,Import,414,Kuwait,KWT,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,69717,,18550088,,,2
+S4,2020,2020,2020,4,0,2,Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,8913,Non-military arms,8,Weight in kilograms,8286,,,,8286,,1304570,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,8913,Non-military arms,8,Weight in kilograms,8286,,,,8286,,1304570,,,0
+S4,2020,2020,2020,4,0,1,Import,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,1438,,8902,,,2
+S4,2020,2020,2020,4,0,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,29730,,2535566,,,2
+S4,2020,2020,2020,4,0,2,Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,4556,,1019141,,,2
+S4,2020,2020,2020,4,0,3,Re-Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,8913,Non-military arms,8,Weight in kilograms,3427,,,,3427,,777928,,,0
+S4,2020,2020,2020,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,866,,,,4451,,185920,,,2
+S4,2020,2020,2020,4,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,16,,1439,,,2
+S4,2020,2020,2020,4,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,4812,,,,10926,,810573,,,4
+S4,2020,2020,2020,4,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,2814,,,,1011,,28003,,,0
+S4,2020,2020,2020,4,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,19034,,,,14496,,2265557,,,0
+S4,2020,2020,2020,4,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,3105,,,,5437,,772055,,,0
+S4,2020,2020,2020,4,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,9386,,,,10598,,1002312,,,0
+S4,2020,2020,2020,4,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,983,,,,1341,,92129,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,901,,,,59,,8115,,,0
+S4,2020,2020,2020,4,0,4,Re-Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,2,,,,58,,15376,,,0
+S4,2020,2020,2020,4,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,193,,,,131,,11972,,,2
+S4,2020,2020,2020,4,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,2263,,57293,,,2
+S4,2020,2020,2020,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,7068,,,,8306,,1841364,,,2
+S4,2020,2020,2020,4,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,6167,,,,27446,,4256592,,,4
+S4,2020,2020,2020,4,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,1,,,,6,,1522,,,4
+S4,2020,2020,2020,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,2111,,,,4890,,619454,,,0
+S4,2020,2020,2020,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,43,,,,190,,60815,,,0
+S4,2020,2020,2020,4,0,1,Import,478,Mauritania,MRT,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,2854,,296343,,,2
+S4,2020,2020,2020,4,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,93,,,,439,,90915,,,0
+S4,2020,2020,2020,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,,,2973656,,,0
+S4,2020,2020,2020,4,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,153317,,3037056,,,6
+S4,2020,2020,2020,4,0,2,Export,490,"Other Asia, nes",,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,4223032,,112917892,,,2
+S4,2020,2020,2020,4,0,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,959,,,,2915,,501958,,,0
+S4,2020,2020,2020,4,0,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,4551,,,,5247,,426956,,,0
+S4,2020,2020,2020,4,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,3176,,,,6632,,994558,,,2
+S4,2020,2020,2020,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,1712,,,,2733,,204664,,,4
+S4,2020,2020,2020,4,0,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,3687,,,,10970,,530221,,,2
+S4,2020,2020,2020,4,0,2,Export,516,Namibia,NAM,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,243,,24861,,,2
+S4,2020,2020,2020,4,0,3,Re-Export,516,Namibia,NAM,0,World,WLD,,,,,,,,8913,Non-military arms,8,Weight in kilograms,231,,,,231,,22477,,,0
+S4,2020,2020,2020,4,0,1,Import,524,Nepal,NPL,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,2,,,,,,2893,,,0
+S4,2020,2020,2020,4,0,2,Export,524,Nepal,NPL,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,84,,,,14925,,654806,,,4
+S4,2020,2020,2020,4,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,172781,,,,285750,,18294220,,,6
+S4,2020,2020,2020,4,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,31238,,,,51167,,2661401,,,4
+S4,2020,2020,2020,4,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,753,,,,1471,,50194,,,2
+S4,2020,2020,2020,4,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,59178,,,,139099,,15890931,,,6
+S4,2020,2020,2020,4,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,11309,,1212246,,,6
+S4,2020,2020,2020,4,0,3,Re-Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,5536,,884210,,,6
+S4,2020,2020,2020,4,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,35,,,,204,,3830,,,2
+S4,2020,2020,2020,4,0,2,Export,558,Nicaragua,NIC,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,6,,114,,,2
+S4,2020,2020,2020,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,3207,,82962,,,2
+S4,2020,2020,2020,4,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,45450,,6646317,,,6
+S4,2020,2020,2020,4,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,38995,,,,104358,,10893346,,,0
+S4,2020,2020,2020,4,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,889,,,,3044,,364389,,,0
+S4,2020,2020,2020,4,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,25966,,,,14790,,1428574,,,4
+S4,2020,2020,2020,4,0,2,Export,586,Pakistan,PAK,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,386,,,,5,,1558,,,4
+S4,2020,2020,2020,4,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,17863,,,,9754,,1149339,,,6
+S4,2020,2020,2020,4,0,2,Export,591,Panama,PAN,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,805,,35348,,,4
+S4,2020,2020,2020,4,0,3,Re-Export,591,Panama,PAN,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,805,,35348,,,4
+S4,2020,2020,2020,4,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,41945,,697697,,,2
+S4,2020,2020,2020,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,10530,,,,18842,,735976,,,0
+S4,2020,2020,2020,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,100,,,,66,,720,,,0
+S4,2020,2020,2020,4,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,43387,,,,,,14879048,,,4
+S4,2020,2020,2020,4,0,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,837,,,,1198,,57250,,,4
+S4,2020,2020,2020,4,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,964143,,,,1098445,,29885705,,,4
+S4,2020,2020,2020,4,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,154201,,,,284620,,12692952,,,4
+S4,2020,2020,2020,4,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,40002,,,,74013,,6862892,,,4
+S4,2020,2020,2020,4,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,68282,,,,250625,,30704020,,,4
+S4,2020,2020,2020,4,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,15883,,3130860,,,2
+S4,2020,2020,2020,4,0,2,Export,634,Qatar,QAT,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,0,,251409,,,2
+S4,2020,2020,2020,4,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,809,,,,9476,,361701,,,2
+S4,2020,2020,2020,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,192,,,,374,,8340,,,2
+S4,2020,2020,2020,4,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,42,,1242,,,0
+S4,2020,2020,2020,4,0,1,Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,72,,,,210,,9369,,,2
+S4,2020,2020,2020,4,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,37938,,,,7361,,2578280,,,6
+S4,2020,2020,2020,4,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,17696,,,,45232,,1984509,,,2
+S4,2020,2020,2020,4,0,2,Export,688,Serbia,SRB,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,22654,,,,97339,,7569837,,,2
+S4,2020,2020,2020,4,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,33,,,,72,,4422,,,2
+S4,2020,2020,2020,4,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,59124,,,,,,6406373,,,4
+S4,2020,2020,2020,4,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,10188,,,,1011,,55534,,,4
+S4,2020,2020,2020,4,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,2128,,,,,,287042,,,4
+S4,2020,2020,2020,4,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,204,,,,2874,,272674,,,4
+S4,2020,2020,2020,4,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,131650,,,,72946,,4822432,,,2
+S4,2020,2020,2020,4,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,1832,,,,4295,,484240,,,0
+S4,2020,2020,2020,4,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,236,,,,778,,135776,,,6
+S4,2020,2020,2020,4,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,15,,,,52,,14600,,,6
+S4,2020,2020,2020,4,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,111913,,,,35889,,2975150,,,4
+S4,2020,2020,2020,4,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,9015,,,,13010,,1081667,,,4
+S4,2020,2020,2020,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,648,,,,7777,,139850,,,6
+S4,2020,2020,2020,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,25,,155,,,2
+S4,2020,2020,2020,4,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,322055,,,,521686,,26600339,,,0
+S4,2020,2020,2020,4,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,819817,,,,2337414,,92024597,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,724,Spain,ESP,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,375832,,,,1066134,,31748392,,,0
+S4,2020,2020,2020,4,0,4,Re-Import,724,Spain,ESP,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,2,,,,1,,84,,,0
+S4,2020,2020,2020,4,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,425,,,,1091,,80244,,,2
+S4,2020,2020,2020,4,0,1,Import,748,Eswatini,SWZ,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,546,,,,1349,,25845,,,0
+S4,2020,2020,2020,4,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,180648,,,,,,17785072,,,0
+S4,2020,2020,2020,4,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,97892,,,,261660,,18085496,,,4
+S4,2020,2020,2020,4,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,109334,,,,98299,,16174167,,,6
+S4,2020,2020,2020,4,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,202160,,,,57397,,9209819,,,4
+S4,2020,2020,2020,4,0,4,Re-Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,432,,,,1072,,138144,,,0
+S4,2020,2020,2020,4,0,1,Import,762,Tajikistan,TJK,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,884,,,,178,,4893,,,6
+S4,2020,2020,2020,4,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,379060,,,,912755,,209914231,,,4
+S4,2020,2020,2020,4,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,1984,,,,9850,,1911574,,,4
+S4,2020,2020,2020,4,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,77,,,,1415,,14736,,,0
+S4,2020,2020,2020,4,0,1,Import,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,4417,,,,12259,,957247,,,4
+S4,2020,2020,2020,4,0,2,Export,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,632,,,,87,,17641,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,632,,,,87,,17641,,,0
+S4,2020,2020,2020,4,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,29564,,,,53452,,5366752,,,2
+S4,2020,2020,2020,4,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,7177,,,,85595,,2746759,,,2
+S4,2020,2020,2020,4,0,3,Re-Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,6848,,,,84840,,2535845,,,2
+S4,2020,2020,2020,4,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,24341,,,,101986,,4875655,,,0
+S4,2020,2020,2020,4,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,2690398,,,,8568844,,314719275,,,0
+S4,2020,2020,2020,4,0,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,2650,,40941,,,2
+S4,2020,2020,2020,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,,,39762,,,4
+S4,2020,2020,2020,4,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,595744,,,,990883,,71764266,,,4
+S4,2020,2020,2020,4,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,111530,,,,199788,,37695054,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,36,,,,151,,3194220,,,0
+S4,2020,2020,2020,4,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,419,,,,953,,76368,,,0
+S4,2020,2020,2020,4,0,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,17,,,,42,,934,,,0
+S4,2020,2020,2020,4,0,3,Re-Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,2,,,,2,,12,,,0
+S4,2020,2020,2020,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,13746795,,,,,,815869888,,,4
+S4,2020,2020,2020,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,1900749,,,,1947973,,164331446,,,4
+S4,2020,2020,2020,4,0,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,596642,,,,557421,,37159665,,,4
+S4,2020,2020,2020,4,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,4364,,110148,,,2
+S4,2020,2020,2020,4,0,2,Export,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,380,,77379,,,2
+S4,2020,2020,2020,4,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,46745,,,,26940,,676147,,,0
+S4,2020,2020,2020,4,0,1,Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,8913,Non-military arms,5,Number of items,676,,,,2454,,131695,,,4
+S4,2020,2020,2020,4,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,3584,,81817,,,2
+S4,2020,2020,2020,4,0,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,8913,Non-military arms,1,No Quantity,0,,,,171,,7680,,,2
