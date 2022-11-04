@@ -1,0 +1,755 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S4,2021,2021,2021,4,1,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1303850,,,,1303850,,3658116,,,0
+S4,2021,2021,2021,4,1,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,993555,,,,993555,,3184930,,,0
+S4,2021,2021,2021,4,1,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",1,No Quantity,0,,,,,,26121470,,,0
+S4,2021,2021,2021,4,1,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,21339483,,,,,,93943382,,,6
+S4,2021,2021,2021,4,1,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,20741728,,,,20741728,,160779481,,,6
+S4,2021,2021,2021,4,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,180838,,,,181336,,796034,,,6
+S4,2021,2021,2021,4,1,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,234522,,,,234522,,801651,,,6
+S4,2021,2021,2021,4,1,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,31616564,,,,31616564,,83229007,,,6
+S4,2021,2021,2021,4,1,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1158,,,,1158,,19192,,,0
+S4,2021,2021,2021,4,1,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1873555,,,,1524304,,3931675,,,0
+S4,2021,2021,2021,4,1,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1731206,,,,1731206,,8135987,,,0
+S4,2021,2021,2021,4,1,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,376504,,,,296358,,733268,,,0
+S4,2021,2021,2021,4,1,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,13196469,,,,13196469,,102134462,,,6
+S4,2021,2021,2021,4,1,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,108696,,,,108696,,284706,,,6
+S4,2021,2021,2021,4,1,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,44434,,,,44434,,479289,,,6
+S4,2021,2021,2021,4,1,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,3154552,,,,3154552,,20941902,,,6
+S4,2021,2021,2021,4,1,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,2616756,,,,2616756,,1732689,,,6
+S4,2021,2021,2021,4,1,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,84980,,,,84980,,53191,,,0
+S4,2021,2021,2021,4,1,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,11123560,,,,11123560,,27721800,,,6
+S4,2021,2021,2021,4,1,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1413825,,,,1413825,,3302085,,,0
+S4,2021,2021,2021,4,1,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,72282484,,,,72282484,,236253904,,,6
+S4,2021,2021,2021,4,1,1,Import,136,Cayman Isds,CYM,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1157,,,,1157,,8453,,,6
+S4,2021,2021,2021,4,1,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1330963,,,,1330963,,4522524,,,0
+S4,2021,2021,2021,4,1,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,7173343,,,,7173343,,20784495,,,6
+S4,2021,2021,2021,4,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,35855492,,,,35855492,,603293488,,,6
+S4,2021,2021,2021,4,1,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,10590609,,,,10590609,,16512028,,,6
+S4,2021,2021,2021,4,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,300,,,,300,,433,,,0
+S4,2021,2021,2021,4,1,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,63783,,,,63783,,298575,,,0
+S4,2021,2021,2021,4,1,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1620146,,,,1620146,,12654345,,,0
+S4,2021,2021,2021,4,1,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1306813,,,,1306813,,7710636,,,6
+S4,2021,2021,2021,4,1,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,372713,,,,372713,,1196141,,,0
+S4,2021,2021,2021,4,1,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,32093045,,,,32093045,,228641880,,,6
+S4,2021,2021,2021,4,1,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,124336,,,,124336,,281546,,,0
+S4,2021,2021,2021,4,1,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,3693806,,,,3693806,,29495566,,,6
+S4,2021,2021,2021,4,1,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,2237211,,,,2381463,,12968084,,,6
+S4,2021,2021,2021,4,1,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1742940,,,,1340107,,5990316,,,6
+S4,2021,2021,2021,4,1,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1032488,,,,1032488,,2802654,,,0
+S4,2021,2021,2021,4,1,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,2389928,,,,2389928,,4295679,,,6
+S4,2021,2021,2021,4,1,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,4494179,,,,4494179,,16448185,,,6
+S4,2021,2021,2021,4,1,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,89868,,,,89868,,447242,,,0
+S4,2021,2021,2021,4,1,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,112730,,,,112730,,27481409,,,6
+S4,2021,2021,2021,4,1,1,Import,251,France,FRA,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,32709941,,,,32709941,,171725162,,,6
+S4,2021,2021,2021,4,1,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1585483,,,,1585483,,2724584,,,6
+S4,2021,2021,2021,4,1,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,5111,,,,5111,,3707,,,0
+S4,2021,2021,2021,4,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,116735737,,,,116735737,,633184655,,,6
+S4,2021,2021,2021,4,1,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1658277,,,,1658277,,5430255,,,0
+S4,2021,2021,2021,4,1,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,6343,,,,6343,,52389,,,0
+S4,2021,2021,2021,4,1,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,2281683,,,,2281683,,6504919,,,0
+S4,2021,2021,2021,4,1,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,284539,,,,284539,,660995,,,6
+S4,2021,2021,2021,4,1,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1411915,,,,1411915,,3448684,,,0
+S4,2021,2021,2021,4,1,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,2864415,,,,2864415,,50684209,,,0
+S4,2021,2021,2021,4,1,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",1,No Quantity,0,,,,0,,178201042,,,6
+S4,2021,2021,2021,4,1,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,208137,,,,,,1648528,,,6
+S4,2021,2021,2021,4,1,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,7073910,,,,7073910,,61769553,,,0
+S4,2021,2021,2021,4,1,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,5016947,,,,5016947,,40265270,,,6
+S4,2021,2021,2021,4,1,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",1,No Quantity,0,,,,,,15927000,,,0
+S4,2021,2021,2021,4,1,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,32308279,,,,32308279,,156003242,,,6
+S4,2021,2021,2021,4,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,31154883,,,,31154883,,114975629,,,6
+S4,2021,2021,2021,4,1,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,235022,,,,235022,,2119668,,,6
+S4,2021,2021,2021,4,1,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1864204,,,,1864204,,8717994,,,0
+S4,2021,2021,2021,4,1,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,16878135,,,,16878135,,88655489,,,6
+S4,2021,2021,2021,4,1,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,952777,,,,952777,,1139984,,,6
+S4,2021,2021,2021,4,1,1,Import,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,299733,,,,299733,,625024,,,0
+S4,2021,2021,2021,4,1,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,722511,,,,722511,,1271897,,,6
+S4,2021,2021,2021,4,1,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1198531,,,,1198531,,7199730,,,6
+S4,2021,2021,2021,4,1,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,4381366,,,,4381366,,18990441,,,6
+S4,2021,2021,2021,4,1,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,278832,,,,278832,,9276298,,,6
+S4,2021,2021,2021,4,1,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,18942,,,,18942,,142464,,,6
+S4,2021,2021,2021,4,1,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,730362,,,,730362,,966370,,,0
+S4,2021,2021,2021,4,1,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,16056891,,,,16056891,,80340122,,,0
+S4,2021,2021,2021,4,1,1,Import,462,Maldives,MDV,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,18608,,,,,,217916,,,6
+S4,2021,2021,2021,4,1,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,372312,,,,372312,,3291108,,,0
+S4,2021,2021,2021,4,1,1,Import,478,Mauritania,MRT,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,193773,,,,193773,,54731,,,0
+S4,2021,2021,2021,4,1,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1012531,,,,1012128,,1904561,,,0
+S4,2021,2021,2021,4,1,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",1,No Quantity,0,,,,0,,551137501,,,6
+S4,2021,2021,2021,4,1,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,8560476,,,,8560476,,52664731,,,6
+S4,2021,2021,2021,4,1,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1373899,,,,1380404,,1926361,,,0
+S4,2021,2021,2021,4,1,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1654362,,,,1654362,,4313649,,,6
+S4,2021,2021,2021,4,1,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,42489,,,,42489,,220652,,,6
+S4,2021,2021,2021,4,1,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,2136741,,,,2136741,,10617675,,,6
+S4,2021,2021,2021,4,1,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,733033,,,,733033,,1833591,,,0
+S4,2021,2021,2021,4,1,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1342876,,,,1342876,,4203945,,,6
+S4,2021,2021,2021,4,1,1,Import,524,Nepal,NPL,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,4419460,,,,4419460,,5653075,,,6
+S4,2021,2021,2021,4,1,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,34174129,,,,34174129,,136205942,,,6
+S4,2021,2021,2021,4,1,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,9348,,,,9348,,133043,,,0
+S4,2021,2021,2021,4,1,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",1,No Quantity,0,,,,,,14552877,,,0
+S4,2021,2021,2021,4,1,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,603962,,,,603962,,1898427,,,0
+S4,2021,2021,2021,4,1,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1059377,,,,1059377,,2100984,,,6
+S4,2021,2021,2021,4,1,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1247648,,,,1247648,,20234233,,,0
+S4,2021,2021,2021,4,1,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1616554,,,,1616554,,5860708,,,6
+S4,2021,2021,2021,4,1,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1002086,,,,1002086,,3332964,,,0
+S4,2021,2021,2021,4,1,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1593476,,,,1593476,,3640494,,,6
+S4,2021,2021,2021,4,1,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,4668592,,,,4668592,,19102990,,,0
+S4,2021,2021,2021,4,1,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,5700365,,,,5700365,,41143444,,,6
+S4,2021,2021,2021,4,1,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,70283103,,,,70283103,,296494016,,,6
+S4,2021,2021,2021,4,1,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,7515295,,,,7515295,,38752856,,,6
+S4,2021,2021,2021,4,1,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,394197,,,,394197,,2561102,,,0
+S4,2021,2021,2021,4,1,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,26025036,,,,26025036,,142384972,,,6
+S4,2021,2021,2021,4,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,48064391,,,,48064391,,173721829,,,6
+S4,2021,2021,2021,4,1,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",1,No Quantity,0,,,,,,336683,,,0
+S4,2021,2021,2021,4,1,1,Import,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",1,No Quantity,0,,,,,,68591,,,6
+S4,2021,2021,2021,4,1,1,Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,929,,,,929,,7402,,,0
+S4,2021,2021,2021,4,1,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,9739791,,,,9739791,,31738333,,,0
+S4,2021,2021,2021,4,1,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,445692,,,,445692,,1804415,,,0
+S4,2021,2021,2021,4,1,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,3044381,,,,3044381,,14345760,,,6
+S4,2021,2021,2021,4,1,1,Import,699,India,IND,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,17234604,,,,17234604,,134372320,,,6
+S4,2021,2021,2021,4,1,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,9465966,,,,9465966,,43006614,,,6
+S4,2021,2021,2021,4,1,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,20608181,,,,20608181,,114250082,,,6
+S4,2021,2021,2021,4,1,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,6421476,,,,6421476,,41030289,,,0
+S4,2021,2021,2021,4,1,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,12005802,,,,12005802,,37848312,,,0
+S4,2021,2021,2021,4,1,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1290991,,,,1290991,,7649657,,,0
+S4,2021,2021,2021,4,1,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",1,No Quantity,0,,,,,,94294613,,,6
+S4,2021,2021,2021,4,1,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,64476,,,,64476,,512756,,,0
+S4,2021,2021,2021,4,1,1,Import,748,Eswatini,SWZ,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,61939,,,,61939,,281517,,,0
+S4,2021,2021,2021,4,1,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,18264779,,,,18264779,,105251204,,,6
+S4,2021,2021,2021,4,1,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,3484954,,,,3484954,,58880925,,,6
+S4,2021,2021,2021,4,1,1,Import,762,Tajikistan,TJK,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,695250,,,,695250,,1419194,,,6
+S4,2021,2021,2021,4,1,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,33839645,,,,33839645,,168732539,,,6
+S4,2021,2021,2021,4,1,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,108252,,,,108252,,241125,,,0
+S4,2021,2021,2021,4,1,1,Import,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,346934,,,,346934,,1710392,,,6
+S4,2021,2021,2021,4,1,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,12834392,,,,12834392,,40332586,,,6
+S4,2021,2021,2021,4,1,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1426641,,,,1426641,,14252354,,,0
+S4,2021,2021,2021,4,1,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,13391904,,,,13391904,,104893585,,,0
+S4,2021,2021,2021,4,1,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",1,No Quantity,0,,,,,,36381479,,,6
+S4,2021,2021,2021,4,1,1,Import,807,North Macedonia,MKD,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,961037,,,,961037,,3557820,,,6
+S4,2021,2021,2021,4,1,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,1069266,,,,,,8244475,,,6
+S4,2021,2021,2021,4,1,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,58348869,,,,58348869,,218202838,,,6
+S4,2021,2021,2021,4,1,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,2117268,,,,2117268,,2781859,,,6
+S4,2021,2021,2021,4,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,438372205,,,,438372205,,1342305182,,,6
+S4,2021,2021,2021,4,1,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,650775,,,,650775,,744901,,,0
+S4,2021,2021,2021,4,1,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,643703,,,,643703,,2452864,,,6
+S4,2021,2021,2021,4,1,1,Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,2050851,,,,,,13657847,,,6
+S4,2021,2021,2021,4,1,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,9143,,,,9143,,30803,,,0
+S4,2021,2021,2021,4,1,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,6994,"Springs & leaves for springs, of iron/steel",8,Weight in kilograms,447145,,,,447145,,1581069,,,0
+S4,2021,2021,2021,4,0,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,3598,,28860,,,0
+S4,2021,2021,2021,4,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,21,,532,,,2
+S4,2021,2021,2021,4,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,9,,,,43300,,2670283,,,0
+S4,2021,2021,2021,4,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,,,41035910,,,6
+S4,2021,2021,2021,4,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,4,,432,,,0
+S4,2021,2021,2021,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,1,,,,14006,,989426,,,0
+S4,2021,2021,2021,4,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,17600,,99040,,,2
+S4,2021,2021,2021,4,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,1371,,160050,,,0
+S4,2021,2021,2021,4,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,13,,693408,,,2
+S4,2021,2021,2021,4,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,4550,,146457,,,0
+S4,2021,2021,2021,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,15,,,,5182,,30796,,,0
+S4,2021,2021,2021,4,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,32,,,,331264,,10331869,,,0
+S4,2021,2021,2021,4,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,7,,,,15472,,1242247,,,6
+S4,2021,2021,2021,4,0,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,1,,200,,,2
+S4,2021,2021,2021,4,0,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,3,,,,49070,,2068656,,,0
+S4,2021,2021,2021,4,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,121,,,,,,16246160,,,0
+S4,2021,2021,2021,4,0,1,Import,136,Cayman Isds,CYM,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,,,13920,,,0
+S4,2021,2021,2021,4,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,12,,,,51,,4122,,,4
+S4,2021,2021,2021,4,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,222,,,,4293,,649061,,,6
+S4,2021,2021,2021,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,120,,,,480644,,19168459,,,0
+S4,2021,2021,2021,4,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,4,,,,91252,,3492217,,,0
+S4,2021,2021,2021,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,432,,23443,,,0
+S4,2021,2021,2021,4,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,2424,,29512,,,0
+S4,2021,2021,2021,4,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,785,,73013,,,2
+S4,2021,2021,2021,4,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,35443,,377675,,,0
+S4,2021,2021,2021,4,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,1079,,2398535,,,0
+S4,2021,2021,2021,4,0,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,17,,,,108,,5256,,,0
+S4,2021,2021,2021,4,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,47107,,905850,,,2
+S4,2021,2021,2021,4,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,2475,,6305,,,2
+S4,2021,2021,2021,4,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,0,,,,15,,197,,,2
+S4,2021,2021,2021,4,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,1908,,218488,,,4
+S4,2021,2021,2021,4,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,156198,,1970683,,,4
+S4,2021,2021,2021,4,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,8,,,,8,,7479,,,0
+S4,2021,2021,2021,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,122,,12918,,,0
+S4,2021,2021,2021,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,358541,,16136415,,,2
+S4,2021,2021,2021,4,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,158,,22630,,,0
+S4,2021,2021,2021,4,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,9555,,15986,,,2
+S4,2021,2021,2021,4,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,29450,,698858,,,0
+S4,2021,2021,2021,4,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,4,,218,,,0
+S4,2021,2021,2021,4,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,,,8012913,,,6
+S4,2021,2021,2021,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,42777616,,211829519,,,0
+S4,2021,2021,2021,4,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,7639,,285571,,,4
+S4,2021,2021,2021,4,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,1743,,140000,,,4
+S4,2021,2021,2021,4,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,200884,,11509677,,,2
+S4,2021,2021,2021,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,3389591,,94011326,,,2
+S4,2021,2021,2021,4,0,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,15,,,,180,,21089,,,6
+S4,2021,2021,2021,4,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,643,,,,893162,,53112921,,,4
+S4,2021,2021,2021,4,0,1,Import,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,0,,,,57360,,220529,,,2
+S4,2021,2021,2021,4,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,79,,1681,,,0
+S4,2021,2021,2021,4,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,78,,3750,,,0
+S4,2021,2021,2021,4,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,12,,851,,,0
+S4,2021,2021,2021,4,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,998,,,,,,16894325,,,6
+S4,2021,2021,2021,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,0,,,,161,,41483,,,2
+S4,2021,2021,2021,4,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,21,,94,,,2
+S4,2021,2021,2021,4,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,180224,,4748070,,,0
+S4,2021,2021,2021,4,0,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,1,,,,20,,235,,,0
+S4,2021,2021,2021,4,0,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,5,,2466,,,2
+S4,2021,2021,2021,4,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,16571,,188505,,,0
+S4,2021,2021,2021,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,2,,,,,,2280,,,0
+S4,2021,2021,2021,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,96351,,1570603,,,0
+S4,2021,2021,2021,4,0,1,Import,524,Nepal,NPL,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,94,,,,,,2551022,,,0
+S4,2021,2021,2021,4,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,7127,,822355,,,4
+S4,2021,2021,2021,4,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,2,,16,,,2
+S4,2021,2021,2021,4,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,1610,,45554,,,0
+S4,2021,2021,2021,4,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,30237,,465763,,,2
+S4,2021,2021,2021,4,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,1051849,,19116329,,,0
+S4,2021,2021,2021,4,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,3843,,57963,,,0
+S4,2021,2021,2021,4,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,68,,,,,,133611612,,,0
+S4,2021,2021,2021,4,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,11954,,373550,,,0
+S4,2021,2021,2021,4,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,10261,,210700,,,0
+S4,2021,2021,2021,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,55,,,,247758,,8817667,,,0
+S4,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,266,,,,785332,,63053319,,,6
+S4,2021,2021,2021,4,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,566902,,20714226,,,6
+S4,2021,2021,2021,4,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,30383,,2211595,,,0
+S4,2021,2021,2021,4,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,33074,,741526,,,2
+S4,2021,2021,2021,4,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,7,,,,269523,,6771826,,,0
+S4,2021,2021,2021,4,0,1,Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,17,,48,,,2
+S4,2021,2021,2021,4,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,497269,,20897226,,,0
+S4,2021,2021,2021,4,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,43445,,4821873,,,2
+S4,2021,2021,2021,4,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,60383,,3725464,,,0
+S4,2021,2021,2021,4,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,,,24882610,,,6
+S4,2021,2021,2021,4,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,30158,,,,,,4494184,,,2
+S4,2021,2021,2021,4,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,1077,,20887,,,0
+S4,2021,2021,2021,4,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,17015,,930492,,,2
+S4,2021,2021,2021,4,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,54,,,,,,1685785,,,0
+S4,2021,2021,2021,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,0,,,,152,,945,,,2
+S4,2021,2021,2021,4,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,182673,,2116478,,,2
+S4,2021,2021,2021,4,0,1,Import,748,Eswatini,SWZ,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,84,,,,8515,,4874,,,0
+S4,2021,2021,2021,4,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,,,835532,,,0
+S4,2021,2021,2021,4,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,162340,,10387291,,,6
+S4,2021,2021,2021,4,0,1,Import,762,Tajikistan,TJK,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,1,,120,,,4
+S4,2021,2021,2021,4,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,109,,,,,,77867472,,,0
+S4,2021,2021,2021,4,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,74600,,7866892,,,0
+S4,2021,2021,2021,4,0,1,Import,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,50103,,3260463,,,0
+S4,2021,2021,2021,4,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,1806401,,30298528,,,0
+S4,2021,2021,2021,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,5,,,,2134,,115588,,,6
+S4,2021,2021,2021,4,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,16330571,,222245122,,,0
+S4,2021,2021,2021,4,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,35972,,445248,,,2
+S4,2021,2021,2021,4,0,1,Import,807,North Macedonia,MKD,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,70,,1030,,,0
+S4,2021,2021,2021,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,,,73089,,,6
+S4,2021,2021,2021,4,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,449451,,22521272,,,0
+S4,2021,2021,2021,4,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,6,,,,784641,,3048213,,,2
+S4,2021,2021,2021,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,,,35771914,,,6
+S4,2021,2021,2021,4,0,1,Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,1,No Quantity,0,,,,56543,,7858146,,,6
+S4,2021,2021,2021,4,0,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,1,,,,,,18720,,,4
+S4,2021,2021,2021,4,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,7121,Steam turbines and other vapour turbines,5,Number of items,0,,,,304,,412,,,2
+S4,2021,2021,2021,4,0,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,1042519,,7835443,,,0
+S4,2021,2021,2021,4,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,665,,,,124061,,1402779,,,0
+S4,2021,2021,2021,4,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,97982,,,,3302390,,37192773,,,4
+S4,2021,2021,2021,4,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,254942,,,,14061738,,222334504,,,4
+S4,2021,2021,2021,4,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,578966,,,,19767262,,329543245,,,0
+S4,2021,2021,2021,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,2744,,,,173163,,875319,,,4
+S4,2021,2021,2021,4,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,6760,,61478,,,6
+S4,2021,2021,2021,4,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,589378,,,,41212308,,162400080,,,6
+S4,2021,2021,2021,4,0,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,34,,,,12342,,198415,,,4
+S4,2021,2021,2021,4,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,765626,,,,,,6848175,,,6
+S4,2021,2021,2021,4,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,776697,,2052864,,,0
+S4,2021,2021,2021,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,18828,,,,506196,,6675541,,,0
+S4,2021,2021,2021,4,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,516813,,,,34320176,,420682486,,,6
+S4,2021,2021,2021,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,27053,,75423,,,6
+S4,2021,2021,2021,4,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,573,,,,27077,,433975,,,4
+S4,2021,2021,2021,4,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,46285,,,,1033738,,14111655,,,0
+S4,2021,2021,2021,4,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,312537,,,,2517825,,37937229,,,6
+S4,2021,2021,2021,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,287824,,338464,,,0
+S4,2021,2021,2021,4,0,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,65465,,,,3616599,,26372400,,,0
+S4,2021,2021,2021,4,0,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,10087,,,,302927,,925486,,,0
+S4,2021,2021,2021,4,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,275777,,,,26343881,,423551447,,,4
+S4,2021,2021,2021,4,0,1,Import,136,Cayman Isds,CYM,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,10338,,156443,,,4
+S4,2021,2021,2021,4,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,12340,,,,129846,,1982589,,,4
+S4,2021,2021,2021,4,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,43924,,,,2384623,,37577900,,,4
+S4,2021,2021,2021,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,1011893,,,,188993014,,3041637167,,,0
+S4,2021,2021,2021,4,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,175233,,,,6764696,,41666934,,,4
+S4,2021,2021,2021,4,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,96333,,114358,,,0
+S4,2021,2021,2021,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,163132,,1222410,,,0
+S4,2021,2021,2021,4,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,170801,,2420458,,,0
+S4,2021,2021,2021,4,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,10334,,,,625841,,11763780,,,2
+S4,2021,2021,2021,4,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,1076,,,,265518,,965017,,,0
+S4,2021,2021,2021,4,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,112163,,,,11499726,,185325764,,,4
+S4,2021,2021,2021,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,178682,,702569,,,2
+S4,2021,2021,2021,4,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,35538,,,,1352359,,16407368,,,4
+S4,2021,2021,2021,4,0,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,162888,,2001815,,,6
+S4,2021,2021,2021,4,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,49639,,,,,,29587149,,,4
+S4,2021,2021,2021,4,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,432979,,2347415,,,2
+S4,2021,2021,2021,4,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,1834415,,8997788,,,0
+S4,2021,2021,2021,4,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,1883,,,,323953,,8536428,,,0
+S4,2021,2021,2021,4,0,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,149,,,,11567,,171434,,,4
+S4,2021,2021,2021,4,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,9511,,,,3813787,,96177777,,,4
+S4,2021,2021,2021,4,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,,,605899463,,,0
+S4,2021,2021,2021,4,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,6128,,,,194589,,1369222,,,0
+S4,2021,2021,2021,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,40302,,30387,,,0
+S4,2021,2021,2021,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,43879079,,787460579,,,6
+S4,2021,2021,2021,4,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,61414,,,,1286998,,13586637,,,4
+S4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,7160,,46327,,,2
+S4,2021,2021,2021,4,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,3035656,,10745055,,,2
+S4,2021,2021,2021,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,9415,,,,1132122,,5776137,,,4
+S4,2021,2021,2021,4,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,1395272,,4762635,,,0
+S4,2021,2021,2021,4,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,15840,,,,1814055,,30176311,,,4
+S4,2021,2021,2021,4,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,18369,,,,779594,,9439271,,,4
+S4,2021,2021,2021,4,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,1212,,,,49591,,802697,,,6
+S4,2021,2021,2021,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,43280311,,207847864,,,0
+S4,2021,2021,2021,4,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,46990,,,,5021444,,77497495,,,6
+S4,2021,2021,2021,4,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,992857,,15925000,,,4
+S4,2021,2021,2021,4,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,687497,,,,44013327,,630406826,,,4
+S4,2021,2021,2021,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,25727035,,420905227,,,2
+S4,2021,2021,2021,4,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,167,,,,48273,,796279,,,6
+S4,2021,2021,2021,4,0,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,41726,,,,544176,,8878319,,,4
+S4,2021,2021,2021,4,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,282786,,,,33520498,,497553286,,,0
+S4,2021,2021,2021,4,0,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,3087,,,,1042348,,1481050,,,2
+S4,2021,2021,2021,4,0,1,Import,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,8586015,,5267631,,,0
+S4,2021,2021,2021,4,0,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,8018046,,88654825,,,2
+S4,2021,2021,2021,4,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,3844,,,,1199204,,21474550,,,0
+S4,2021,2021,2021,4,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,9735,,,,529847,,5769088,,,6
+S4,2021,2021,2021,4,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,128,,,,56348,,784539,,,0
+S4,2021,2021,2021,4,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,1375,,2223,,,2
+S4,2021,2021,2021,4,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,553208,,1150640,,,0
+S4,2021,2021,2021,4,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,79285,,,,3467033,,54910588,,,4
+S4,2021,2021,2021,4,0,1,Import,462,Maldives,MDV,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,165,,,,28058,,416979,,,4
+S4,2021,2021,2021,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,938,,,,35586,,290042,,,0
+S4,2021,2021,2021,4,0,1,Import,478,Mauritania,MRT,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,2664,,,,391936,,14000395,,,2
+S4,2021,2021,2021,4,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,1265,,,,182319,,781612,,,4
+S4,2021,2021,2021,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,1417704,,,,15466929,,219685371,,,4
+S4,2021,2021,2021,4,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,7548464,,85869179,,,4
+S4,2021,2021,2021,4,0,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,1120,,,,564196,,11389999,,,0
+S4,2021,2021,2021,4,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,1582,,,,61423,,1126318,,,0
+S4,2021,2021,2021,4,0,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,467,,,,43028,,357532,,,0
+S4,2021,2021,2021,4,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,41499,,,,2360652,,14334518,,,2
+S4,2021,2021,2021,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,262564,,,,462535,,7384143,,,6
+S4,2021,2021,2021,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,429171,,5228088,,,0
+S4,2021,2021,2021,4,0,1,Import,524,Nepal,NPL,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,27341,,,,37153,,602238,,,4
+S4,2021,2021,2021,4,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,65357,,,,18247090,,229328701,,,4
+S4,2021,2021,2021,4,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,2265,,70501,,,2
+S4,2021,2021,2021,4,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,17843,,,,1677985,,27213395,,,4
+S4,2021,2021,2021,4,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,576078,,3281401,,,2
+S4,2021,2021,2021,4,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,,,16097201,,,0
+S4,2021,2021,2021,4,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,4608,,,,693526,,17153084,,,0
+S4,2021,2021,2021,4,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,262670,,,,1831604,,28462587,,,4
+S4,2021,2021,2021,4,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,436197,,4509069,,,0
+S4,2021,2021,2021,4,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,182036,,1668301,,,0
+S4,2021,2021,2021,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,185945,,,,9056965,,68156365,,,0
+S4,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,343199,,,,6186308,,101632198,,,6
+S4,2021,2021,2021,4,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,308483,,,,11517970,,142632052,,,4
+S4,2021,2021,2021,4,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,32973,,,,2154768,,20639038,,,6
+S4,2021,2021,2021,4,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,707983,,7100471,,,0
+S4,2021,2021,2021,4,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,27776,,,,1878824,,24893579,,,6
+S4,2021,2021,2021,4,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,615208,,,,25471646,,324224941,,,2
+S4,2021,2021,2021,4,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,265323,,787638,,,0
+S4,2021,2021,2021,4,0,1,Import,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,1329,,65713,,,2
+S4,2021,2021,2021,4,0,1,Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,7801,,55910,,,2
+S4,2021,2021,2021,4,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,172664,,,,18425308,,107055927,,,0
+S4,2021,2021,2021,4,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,,,13338117,,,6
+S4,2021,2021,2021,4,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,5108,,,,564088,,8320716,,,0
+S4,2021,2021,2021,4,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,483958,,,,14022891,,230821129,,,4
+S4,2021,2021,2021,4,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,64518,,,,6729499,,110911449,,,6
+S4,2021,2021,2021,4,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,743520,,,,,,72744298,,,0
+S4,2021,2021,2021,4,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,2697,,,,339754,,6380722,,,0
+S4,2021,2021,2021,4,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,82752,,,,8400854,,137401088,,,6
+S4,2021,2021,2021,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,64135,,,,6621066,,8146927,,,0
+S4,2021,2021,2021,4,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,,,217666670,,,6
+S4,2021,2021,2021,4,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,1048815,,3991334,,,0
+S4,2021,2021,2021,4,0,1,Import,748,Eswatini,SWZ,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,804,,,,52565,,455235,,,2
+S4,2021,2021,2021,4,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,48326,,,,5413123,,111991314,,,6
+S4,2021,2021,2021,4,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,7290,,,,2406456,,53731716,,,6
+S4,2021,2021,2021,4,0,1,Import,762,Tajikistan,TJK,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,6917,,,,71553,,951896,,,6
+S4,2021,2021,2021,4,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,543929,,,,11315588,,159307046,,,6
+S4,2021,2021,2021,4,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,964921,,1284439,,,0
+S4,2021,2021,2021,4,0,1,Import,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,201,,,,79942,,452830,,,4
+S4,2021,2021,2021,4,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,29909677,,211597970,,,0
+S4,2021,2021,2021,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,1712,,,,279186,,4763395,,,0
+S4,2021,2021,2021,4,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,246058,,,,41451281,,416853637,,,0
+S4,2021,2021,2021,4,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,26010,,,,1374974,,17134500,,,0
+S4,2021,2021,2021,4,0,1,Import,807,North Macedonia,MKD,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,3912,,,,348825,,792239,,,2
+S4,2021,2021,2021,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,1959377,,30859312,,,6
+S4,2021,2021,2021,4,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,242862,,,,24738182,,404981360,,,6
+S4,2021,2021,2021,4,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,327010,,,,4313409,,9786837,,,2
+S4,2021,2021,2021,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,5902465,,,,214400152,,3397513771,,,4
+S4,2021,2021,2021,4,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,4012811,,11949073,,,6
+S4,2021,2021,2021,4,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,91613,,805601,,,0
+S4,2021,2021,2021,4,0,1,Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,3518459,,48200268,,,6
+S4,2021,2021,2021,4,0,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",1,No Quantity,0,,,,6783,,107278,,,6
+S4,2021,2021,2021,4,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,7138,"Internal combustion piston engines, n.e.s.",5,Number of items,3012,,,,1541094,,27290946,,,6
+S4,2021,2021,2021,4,0,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,2875936,,,,2875936,,25703835,,,6
+S4,2021,2021,2021,4,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,1914053,,,,1914053,,16918732,,,0
+S4,2021,2021,2021,4,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,46562547,,,,46562547,,533727524,,,6
+S4,2021,2021,2021,4,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,16067947,,,,0,,464366650,,,6
+S4,2021,2021,2021,4,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,117411842,,,,117411842,,1756303459,,,6
+S4,2021,2021,2021,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,521759,,,,521759,,5197307,,,0
+S4,2021,2021,2021,4,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,75070,,,,75070,,2367930,,,6
+S4,2021,2021,2021,4,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,87076733,,,,87076733,,628758231,,,6
+S4,2021,2021,2021,4,0,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,100332,,,,100332,,2025207,,,0
+S4,2021,2021,2021,4,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,4312093,,,,4312093,,26600938,,,0
+S4,2021,2021,2021,4,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,477378,,,,477378,,9707543,,,0
+S4,2021,2021,2021,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,380948,,,,384159,,4195793,,,0
+S4,2021,2021,2021,4,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,115607511,,,,115607479,,1593145328,,,6
+S4,2021,2021,2021,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,243715,,,,243715,,2318371,,,6
+S4,2021,2021,2021,4,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,128457,,,,128457,,12815799,,,6
+S4,2021,2021,2021,4,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,1415617,,,,1415617,,53610340,,,0
+S4,2021,2021,2021,4,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,7858242,,,,7858242,,16433446,,,6
+S4,2021,2021,2021,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,55252,,,,55252,,383308,,,0
+S4,2021,2021,2021,4,0,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,7189819,,,,7189819,,70929600,,,6
+S4,2021,2021,2021,4,0,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,86101,,,,86101,,3027049,,,6
+S4,2021,2021,2021,4,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,70036191,,,,70036191,,1975084283,,,6
+S4,2021,2021,2021,4,0,1,Import,136,Cayman Isds,CYM,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,87324,,,,87324,,2544100,,,6
+S4,2021,2021,2021,4,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,2815165,,,,2815165,,31444768,,,0
+S4,2021,2021,2021,4,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,15297375,,,,15297375,,198172833,,,6
+S4,2021,2021,2021,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,154015648,,,,154015648,,3897953617,,,6
+S4,2021,2021,2021,4,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",1,No Quantity,0,,,,,,166007422,,,0
+S4,2021,2021,2021,4,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,1788,,,,1788,,74067,,,0
+S4,2021,2021,2021,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,680079,,,,680079,,4236449,,,0
+S4,2021,2021,2021,4,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,1236195,,,,1236195,,16486141,,,0
+S4,2021,2021,2021,4,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,894083,,,,894083,,34710116,,,0
+S4,2021,2021,2021,4,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,862979,,,,862979,,11963210,,,0
+S4,2021,2021,2021,4,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,46562250,,,,46562250,,734671357,,,6
+S4,2021,2021,2021,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,156970,,,,156970,,1569250,,,0
+S4,2021,2021,2021,4,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,8485989,,,,8485989,,208841203,,,0
+S4,2021,2021,2021,4,0,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,1698044,,,,,,34519004,,,6
+S4,2021,2021,2021,4,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,4813747,,,,4813748,,94221341,,,6
+S4,2021,2021,2021,4,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,1137318,,,,1137318,,17232594,,,0
+S4,2021,2021,2021,4,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,1018485,,,,1018485,,11931375,,,0
+S4,2021,2021,2021,4,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,14999464,,,,14999464,,44756444,,,0
+S4,2021,2021,2021,4,0,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,118598,,,,118598,,2609598,,,0
+S4,2021,2021,2021,4,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,186063,,,,186063,,216734007,,,6
+S4,2021,2021,2021,4,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,182391756,,,,182391756,,2160008126,,,6
+S4,2021,2021,2021,4,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,476294,,,,476294,,9302110,,,0
+S4,2021,2021,2021,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,32022,,,,32022,,27978,,,0
+S4,2021,2021,2021,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,427344578,,,,427344578,,6537157206,,,6
+S4,2021,2021,2021,4,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,4739608,,,,4739608,,117232766,,,0
+S4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,29728,,,,29728,,711176,,,0
+S4,2021,2021,2021,4,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,4293538,,,,4293538,,54302902,,,0
+S4,2021,2021,2021,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,803377,,,,803377,,12727032,,,6
+S4,2021,2021,2021,4,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,3093825,,,,3093825,,37451964,,,0
+S4,2021,2021,2021,4,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,7119517,,,,7119517,,296393917,,,0
+S4,2021,2021,2021,4,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,186435961,,,,186436235,,2010521927,,,6
+S4,2021,2021,2021,4,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,221214,,,,221214,,6402470,,,6
+S4,2021,2021,2021,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,76074254,,,,76074254,,703260423,,,6
+S4,2021,2021,2021,4,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,1890256,,,,1890256,,39817769,,,6
+S4,2021,2021,2021,4,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,858596,,,,858596,,24508000,,,6
+S4,2021,2021,2021,4,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,210571299,,,,210571299,,2268208783,,,0
+S4,2021,2021,2021,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,187537662,,,,187537662,,1825272520,,,0
+S4,2021,2021,2021,4,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,390683,,,,390683,,11301242,,,6
+S4,2021,2021,2021,4,0,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,2821140,,,,2821140,,17245914,,,0
+S4,2021,2021,2021,4,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,56017576,,,,56017576,,1215900342,,,6
+S4,2021,2021,2021,4,0,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,1610152,,,,1767116,,4808314,,,6
+S4,2021,2021,2021,4,0,1,Import,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,351979,,,,351979,,3878926,,,0
+S4,2021,2021,2021,4,0,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,382658,,,,382658,,10689353,,,6
+S4,2021,2021,2021,4,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,1286257,,,,1286257,,39214276,,,6
+S4,2021,2021,2021,4,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",1,No Quantity,0,,,,,,65883856,,,0
+S4,2021,2021,2021,4,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,421311,,,,421311,,12186374,,,6
+S4,2021,2021,2021,4,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,6203,,,,6203,,289358,,,6
+S4,2021,2021,2021,4,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,316134,,,,316134,,5659705,,,0
+S4,2021,2021,2021,4,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,26662310,,,,26662310,,308969943,,,0
+S4,2021,2021,2021,4,0,1,Import,462,Maldives,MDV,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,501951,,,,501951,,14401961,,,6
+S4,2021,2021,2021,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,323991,,,,323991,,16908919,,,0
+S4,2021,2021,2021,4,0,1,Import,478,Mauritania,MRT,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,708602,,,,708602,,22156870,,,0
+S4,2021,2021,2021,4,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,359217,,,,388182,,8215263,,,0
+S4,2021,2021,2021,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,2709958939,,,,2709958939,,3750494975,,,6
+S4,2021,2021,2021,4,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,9534338,,,,9534338,,170045000,,,6
+S4,2021,2021,2021,4,0,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,614824,,,,614824,,13889258,,,0
+S4,2021,2021,2021,4,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,320620,,,,320620,,6093274,,,6
+S4,2021,2021,2021,4,0,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,69551,,,,69551,,1579004,,,0
+S4,2021,2021,2021,4,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,8817131,,,,8817131,,153167027,,,6
+S4,2021,2021,2021,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,221004999,,,,221004999,,12990098,,,0
+S4,2021,2021,2021,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,3120953,,,,3120953,,81996272,,,6
+S4,2021,2021,2021,4,0,1,Import,524,Nepal,NPL,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,277002,,,,277002,,7982582,,,6
+S4,2021,2021,2021,4,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,77474840,,,,77474840,,1422050179,,,0
+S4,2021,2021,2021,4,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,47242,,,,47242,,1514640,,,0
+S4,2021,2021,2021,4,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,2550641,,,,0,,73233637,,,6
+S4,2021,2021,2021,4,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,1081255,,,,1081255,,14854776,,,0
+S4,2021,2021,2021,4,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",1,No Quantity,0,,,,,,24837986,,,0
+S4,2021,2021,2021,4,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,4287173,,,,4287173,,135920840,,,0
+S4,2021,2021,2021,4,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,10165070,,,,10165070,,153731342,,,0
+S4,2021,2021,2021,4,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,842379,,,,842379,,24556212,,,0
+S4,2021,2021,2021,4,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,1438712,,,,1438712,,22930770,,,6
+S4,2021,2021,2021,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,9544135,,,,9544135,,166392699,,,0
+S4,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,2419157,,,,2419157,,69169167,,,6
+S4,2021,2021,2021,4,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,144222479,,,,144222479,,1942623525,,,6
+S4,2021,2021,2021,4,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,11680536,,,,11680536,,166061334,,,6
+S4,2021,2021,2021,4,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,1123255,,,,1123255,,21470034,,,0
+S4,2021,2021,2021,4,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,41524236,,,,41524236,,665144132,,,6
+S4,2021,2021,2021,4,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,49872499,,,,49872499,,828242362,,,6
+S4,2021,2021,2021,4,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,217458,,,,217458,,2391679,,,0
+S4,2021,2021,2021,4,0,1,Import,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,25568,,,,25568,,1367126,,,6
+S4,2021,2021,2021,4,0,1,Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,20409,,,,20409,,1044445,,,0
+S4,2021,2021,2021,4,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,32909446,,,,32909446,,351073242,,,0
+S4,2021,2021,2021,4,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,2693311,,,,2693311,,49052970,,,0
+S4,2021,2021,2021,4,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,1158566,,,,1158566,,22793422,,,6
+S4,2021,2021,2021,4,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,90052894,,,,90052894,,1311641919,,,6
+S4,2021,2021,2021,4,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,26290100,,,,26290100,,779182343,,,6
+S4,2021,2021,2021,4,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,46511968,,,,46511968,,704605550,,,6
+S4,2021,2021,2021,4,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,888043,,,,888043,,37998764,,,0
+S4,2021,2021,2021,4,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,19198717,,,,19198717,,206671076,,,6
+S4,2021,2021,2021,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,986844,,,,986844,,8191106,,,0
+S4,2021,2021,2021,4,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,97579056,,,,97579056,,1222668719,,,6
+S4,2021,2021,2021,4,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,1004214,,,,1004214,,22983282,,,0
+S4,2021,2021,2021,4,0,1,Import,748,Eswatini,SWZ,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,100819,,,,100819,,1904182,,,0
+S4,2021,2021,2021,4,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,105723431,,,,105723431,,1216682864,,,6
+S4,2021,2021,2021,4,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,11263383,,,,11263383,,201534403,,,6
+S4,2021,2021,2021,4,0,1,Import,762,Tajikistan,TJK,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,1063745,,,,1063745,,3096576,,,6
+S4,2021,2021,2021,4,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,133216616,,,,133216616,,1696656436,,,6
+S4,2021,2021,2021,4,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,86466,,,,86466,,687544,,,0
+S4,2021,2021,2021,4,0,1,Import,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,248090,,,,248090,,7799171,,,6
+S4,2021,2021,2021,4,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,29699060,,,,29699060,,565932933,,,0
+S4,2021,2021,2021,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,2254137,,,,2254137,,37113048,,,0
+S4,2021,2021,2021,4,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,51900973,,,,51900973,,948851068,,,0
+S4,2021,2021,2021,4,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",1,No Quantity,0,,,,,,85136765,,,6
+S4,2021,2021,2021,4,0,1,Import,807,North Macedonia,MKD,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,121523,,,,121523,,3289630,,,6
+S4,2021,2021,2021,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,4013189,,,,4013189,,115994469,,,6
+S4,2021,2021,2021,4,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,262192127,,,,262192127,,2984688059,,,6
+S4,2021,2021,2021,4,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,2057165,,,,2057165,,15564515,,,6
+S4,2021,2021,2021,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,1243303168,,,,1243303168,,10368676976,,,0
+S4,2021,2021,2021,4,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,1897349,,,,1897349,,13021466,,,0
+S4,2021,2021,2021,4,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,685676,,,,685676,,10386773,,,6
+S4,2021,2021,2021,4,0,1,Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,3705113,,,,3705113,,104607325,,,6
+S4,2021,2021,2021,4,0,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,7281,,,,7281,,178256,,,0
+S4,2021,2021,2021,4,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,7139,"Parts, n.e.s, for the internal combustion piston engines of subgroups 713.2, 713.3 and 713.8",8,Weight in kilograms,362222,,,,362222,,8872285,,,0
+S4,2021,2021,2021,4,0,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,3380,,295785,,,0
+S4,2021,2021,2021,4,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,58,,,,31952,,12821850,,,2
+S4,2021,2021,2021,4,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,10,,,,2580,,167040,,,0
+S4,2021,2021,2021,4,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,157,,,,,,337961110,,,6
+S4,2021,2021,2021,4,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,71,,,,50138,,76987648,,,0
+S4,2021,2021,2021,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,54,,78549,,,0
+S4,2021,2021,2021,4,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,19,,749,,,2
+S4,2021,2021,2021,4,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,,,150101318,,,0
+S4,2021,2021,2021,4,0,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,5,,,,,,6662,,,0
+S4,2021,2021,2021,4,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,15,,4800,,,2
+S4,2021,2021,2021,4,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,10,,265,,,0
+S4,2021,2021,2021,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,21,,,,2052,,6814,,,2
+S4,2021,2021,2021,4,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,1096564,,1558023698,,,0
+S4,2021,2021,2021,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,210,,5291,,,2
+S4,2021,2021,2021,4,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,2,,,,,,320064,,,0
+S4,2021,2021,2021,4,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,31,,,,20040,,11586493,,,0
+S4,2021,2021,2021,4,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,110,,,,2,,1313,,,6
+S4,2021,2021,2021,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,124,,10846,,,0
+S4,2021,2021,2021,4,0,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,20,,,,,,4809700,,,4
+S4,2021,2021,2021,4,0,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,4,,,,210,,1677,,,0
+S4,2021,2021,2021,4,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,3825,,,,,,797543812,,,0
+S4,2021,2021,2021,4,0,1,Import,136,Cayman Isds,CYM,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,,,4629,,,0
+S4,2021,2021,2021,4,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,46,,,,,,24267255,,,4
+S4,2021,2021,2021,4,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,309,,,,,,86063,,,0
+S4,2021,2021,2021,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,834,,,,1526039,,3280645056,,,0
+S4,2021,2021,2021,4,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,15,,,,38203,,40864152,,,0
+S4,2021,2021,2021,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,5027,,239249,,,0
+S4,2021,2021,2021,4,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,11,,2999,,,0
+S4,2021,2021,2021,4,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,7618,,4154107,,,6
+S4,2021,2021,2021,4,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,54,,,,21739,,830076,,,0
+S4,2021,2021,2021,4,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,56145,,104458692,,,4
+S4,2021,2021,2021,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,10750,,223,,,2
+S4,2021,2021,2021,4,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,108,,,,62861,,82249971,,,0
+S4,2021,2021,2021,4,0,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,,,63143,,,6
+S4,2021,2021,2021,4,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,1305,,131354,,,2
+S4,2021,2021,2021,4,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,599,,13208,,,2
+S4,2021,2021,2021,4,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,23421,,48713171,,,0
+S4,2021,2021,2021,4,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,36,,,,61134,,23952952,,,0
+S4,2021,2021,2021,4,0,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,17,,,,,,1841,,,4
+S4,2021,2021,2021,4,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,1163,,43925927,,,4
+S4,2021,2021,2021,4,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,3042363,,3408306397,,,0
+S4,2021,2021,2021,4,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,1033,,414577,,,0
+S4,2021,2021,2021,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,4,,84,,,0
+S4,2021,2021,2021,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,797,,,,2878919,,4658067411,,,0
+S4,2021,2021,2021,4,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,21616,,36818313,,,0
+S4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,0,,,,28,,2120,,,2
+S4,2021,2021,2021,4,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,2877,,32520,,,2
+S4,2021,2021,2021,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,5,,,,35,,559,,,0
+S4,2021,2021,2021,4,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,33,,1608,,,0
+S4,2021,2021,2021,4,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,676,,,,5695338,,7646721734,,,4
+S4,2021,2021,2021,4,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,316,,,,128206,,18232951,,,0
+S4,2021,2021,2021,4,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,,,2894727,,,6
+S4,2021,2021,2021,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,177404,,13452010,,,0
+S4,2021,2021,2021,4,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,3795,,,,1158335,,1557344495,,,6
+S4,2021,2021,2021,4,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,,,438713000,,,0
+S4,2021,2021,2021,4,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,,,279163081,,,6
+S4,2021,2021,2021,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,1128,,,,621451,,1710199000,,,2
+S4,2021,2021,2021,4,0,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,,,804757,,,6
+S4,2021,2021,2021,4,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,376,,,,344557,,557738287,,,4
+S4,2021,2021,2021,4,0,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,17,,,,58443,,5918927,,,0
+S4,2021,2021,2021,4,0,1,Import,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,11197,,233037,,,0
+S4,2021,2021,2021,4,0,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,11,,,,36671,,71935100,,,2
+S4,2021,2021,2021,4,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,24,,,,25168,,19203626,,,0
+S4,2021,2021,2021,4,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,36519,,35125710,,,0
+S4,2021,2021,2021,4,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,118,,,,435329,,384192817,,,2
+S4,2021,2021,2021,4,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,401,,20444,,,0
+S4,2021,2021,2021,4,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,154,,,,,,7609452,,,4
+S4,2021,2021,2021,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,2233,,188889,,,0
+S4,2021,2021,2021,4,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,26,,,,95,,6035,,,0
+S4,2021,2021,2021,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,434,,,,,,38213172,,,4
+S4,2021,2021,2021,4,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,111,,,,550371,,533849932,,,2
+S4,2021,2021,2021,4,0,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,120,,,,3042,,6480202,,,0
+S4,2021,2021,2021,4,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,2,,,,3016,,51015,,,0
+S4,2021,2021,2021,4,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,45287,,138963897,,,0
+S4,2021,2021,2021,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,665,,,,,,59139,,,2
+S4,2021,2021,2021,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,42927,,44535484,,,0
+S4,2021,2021,2021,4,0,1,Import,524,Nepal,NPL,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,253,,,,,,2233,,,0
+S4,2021,2021,2021,4,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,1905,,,,1623101,,864544935,,,4
+S4,2021,2021,2021,4,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,33,,544,,,2
+S4,2021,2021,2021,4,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,149,,,,46478,,62366457,,,4
+S4,2021,2021,2021,4,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,375,,4232,,,2
+S4,2021,2021,2021,4,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,389024,,1029218,,,4
+S4,2021,2021,2021,4,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,167607,,305954350,,,0
+S4,2021,2021,2021,4,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,5,,,,,,8022,,,0
+S4,2021,2021,2021,4,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,275,,7742,,,0
+S4,2021,2021,2021,4,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,1,,1061,,,0
+S4,2021,2021,2021,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,1416,,44382,,,0
+S4,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,,,20908565,,,6
+S4,2021,2021,2021,4,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,922,,,,325566,,909027880,,,0
+S4,2021,2021,2021,4,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,23,,,,34748,,38477691,,,0
+S4,2021,2021,2021,4,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,1830265,,1315991171,,,0
+S4,2021,2021,2021,4,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,19268,,11375035,,,6
+S4,2021,2021,2021,4,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,465,,,,334059,,844812522,,,0
+S4,2021,2021,2021,4,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,7540,,544035,,,0
+S4,2021,2021,2021,4,0,1,Import,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,27,,237,,,2
+S4,2021,2021,2021,4,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,154834,,5870393,,,0
+S4,2021,2021,2021,4,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,1158,,32294,,,2
+S4,2021,2021,2021,4,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,69,,,,9726,,5244830,,,0
+S4,2021,2021,2021,4,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,3782,,,,,,2050177094,,,4
+S4,2021,2021,2021,4,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,,,4824077672,,,0
+S4,2021,2021,2021,4,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,59,,,,5921,,7013981,,,0
+S4,2021,2021,2021,4,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,10,,,,9420,,43799468,,,0
+S4,2021,2021,2021,4,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,,,37792435,,,0
+S4,2021,2021,2021,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,57,,,,582,,7711,,,0
+S4,2021,2021,2021,4,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,617567,,764738823,,,2
+S4,2021,2021,2021,4,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,0,,,,8627,,14039,,,2
+S4,2021,2021,2021,4,0,1,Import,748,Eswatini,SWZ,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,5,,,,926,,3424,,,2
+S4,2021,2021,2021,4,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,,,54753376,,,0
+S4,2021,2021,2021,4,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,1877,,,,44115,,82493155,,,6
+S4,2021,2021,2021,4,0,1,Import,762,Tajikistan,TJK,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,,,2681,,,0
+S4,2021,2021,2021,4,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,1910,,,,,,250163705,,,2
+S4,2021,2021,2021,4,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,10,,3374,,,0
+S4,2021,2021,2021,4,0,1,Import,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,4,,,,12576,,7998610,,,0
+S4,2021,2021,2021,4,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,1135011,,1834971768,,,0
+S4,2021,2021,2021,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,13,,,,5330,,75632,,,0
+S4,2021,2021,2021,4,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,,,248210408,,,0
+S4,2021,2021,2021,4,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,24,,,,34657,,5739467,,,4
+S4,2021,2021,2021,4,0,1,Import,807,North Macedonia,MKD,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,94,,2249,,,0
+S4,2021,2021,2021,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,,,1228561,,,6
+S4,2021,2021,2021,4,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,5884818,,7922579084,,,4
+S4,2021,2021,2021,4,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,817,,,,3152,,503844,,,0
+S4,2021,2021,2021,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,7144,Reaction engines,5,Number of items,38491,,,,,,6651336174,,,6
+S4,2021,2021,2021,4,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,1009,,4248,,,0
+S4,2021,2021,2021,4,0,1,Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,,,1237,,,6
+S4,2021,2021,2021,4,0,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,1000,,194,,,2
+S4,2021,2021,2021,4,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,7144,Reaction engines,1,No Quantity,0,,,,199,,10743,,,0
+S4,2021,2021,2021,4,0,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,121192,,30062644,,,0
+S4,2021,2021,2021,4,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,217869,,15160380,,,2
+S4,2021,2021,2021,4,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,23,,,,184512,,49379841,,,0
+S4,2021,2021,2021,4,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,564,,,,,,281875037,,,4
+S4,2021,2021,2021,4,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,34,,,,5382,,4767136,,,0
+S4,2021,2021,2021,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,2,,,,11724,,353459,,,0
+S4,2021,2021,2021,4,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,0,,,,173,,10494,,,2
+S4,2021,2021,2021,4,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,186979,,33759325,,,0
+S4,2021,2021,2021,4,0,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,7,,,,3,,4442,,,6
+S4,2021,2021,2021,4,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,,,13798739,,,6
+S4,2021,2021,2021,4,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,0,,,,33143,,87971,,,2
+S4,2021,2021,2021,4,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,3075,,1590991,,,0
+S4,2021,2021,2021,4,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,349,,,,110709,,108585969,,,4
+S4,2021,2021,2021,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,3,,,,1322,,682901,,,2
+S4,2021,2021,2021,4,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,25,,,,,,25047530,,,0
+S4,2021,2021,2021,4,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,13,,,,3997,,1390354,,,0
+S4,2021,2021,2021,4,0,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,14,,,,24331,,1533100,,,0
+S4,2021,2021,2021,4,0,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,5,,,,230,,270,,,0
+S4,2021,2021,2021,4,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,1450,,,,,,383008944,,,0
+S4,2021,2021,2021,4,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,,,50722,,,6
+S4,2021,2021,2021,4,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,299,,,,,,1778715,,,2
+S4,2021,2021,2021,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,282,,,,3343590,,396648347,,,2
+S4,2021,2021,2021,4,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,4463,,,,244459,,45591787,,,2
+S4,2021,2021,2021,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,2855,,1122926,,,0
+S4,2021,2021,2021,4,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,0,,,,9279,,234908,,,2
+S4,2021,2021,2021,4,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,17,,,,182798,,22985737,,,2
+S4,2021,2021,2021,4,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,1,,,,15,,36582,,,0
+S4,2021,2021,2021,4,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,1295401,,189890028,,,0
+S4,2021,2021,2021,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,0,,,,60,,5911,,,2
+S4,2021,2021,2021,4,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,87,,,,41747,,6347261,,,0
+S4,2021,2021,2021,4,0,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,20,,,,371,,165036,,,0
+S4,2021,2021,2021,4,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,135,,,,2285,,1336886,,,2
+S4,2021,2021,2021,4,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,0,,,,483,,20571,,,2
+S4,2021,2021,2021,4,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,8120,,4486072,,,0
+S4,2021,2021,2021,4,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,9,,,,3469,,3413340,,,0
+S4,2021,2021,2021,4,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,2548,,3606390,,,4
+S4,2021,2021,2021,4,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,1082,,,,220173,,219319611,,,6
+S4,2021,2021,2021,4,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,8,,,,1351,,1350368,,,0
+S4,2021,2021,2021,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,300,,34,,,0
+S4,2021,2021,2021,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,434,,,,970551,,308439381,,,0
+S4,2021,2021,2021,4,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,125,,,,457352,,60623630,,,0
+S4,2021,2021,2021,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,0,,,,94,,2591,,,2
+S4,2021,2021,2021,4,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,12,,,,2055,,2164879,,,2
+S4,2021,2021,2021,4,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,0,,,,371,,3559,,,2
+S4,2021,2021,2021,4,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,179,,,,,,97478441,,,4
+S4,2021,2021,2021,4,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,,,135530649,,,0
+S4,2021,2021,2021,4,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,,,237584,,,6
+S4,2021,2021,2021,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,245301,,38029769,,,0
+S4,2021,2021,2021,4,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,3895,,,,26378,,11372567,,,2
+S4,2021,2021,2021,4,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,98,,,,,,26550000,,,2
+S4,2021,2021,2021,4,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,1639654,,378645874,,,2
+S4,2021,2021,2021,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,1002,,,,216083,,321265226,,,2
+S4,2021,2021,2021,4,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,13,,,,,,2864963,,,2
+S4,2021,2021,2021,4,0,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,5,,,,,,122421,,,4
+S4,2021,2021,2021,4,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,194,,,,1100116,,173000952,,,2
+S4,2021,2021,2021,4,0,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,945,,,,27862,,322219,,,2
+S4,2021,2021,2021,4,0,1,Import,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,,,68877,,,0
+S4,2021,2021,2021,4,0,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,10,,,,1318,,2181332,,,2
+S4,2021,2021,2021,4,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,7,,,,5258,,5156261,,,0
+S4,2021,2021,2021,4,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,6110,,2994040,,,0
+S4,2021,2021,2021,4,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,17894,,5021797,,,2
+S4,2021,2021,2021,4,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,0,,,,0,,1032,,,2
+S4,2021,2021,2021,4,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,331,,,,,,97563965,,,4
+S4,2021,2021,2021,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,16,,,,1566,,2328592,,,0
+S4,2021,2021,2021,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,29,,,,,,18765984,,,4
+S4,2021,2021,2021,4,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,248,,,,1233928,,219513724,,,2
+S4,2021,2021,2021,4,0,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,20,,49,,,0
+S4,2021,2021,2021,4,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,2,,,,601,,18700,,,0
+S4,2021,2021,2021,4,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,1628,,2007830,,,0
+S4,2021,2021,2021,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,18,,,,,,18694406,,,0
+S4,2021,2021,2021,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,306977,,58134119,,,0
+S4,2021,2021,2021,4,0,1,Import,524,Nepal,NPL,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,,,229289,,,0
+S4,2021,2021,2021,4,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,,,112167122,,,0
+S4,2021,2021,2021,4,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,0,,,,189,,4162,,,2
+S4,2021,2021,2021,4,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,,,53241854,,,0
+S4,2021,2021,2021,4,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,2740,,74352,,,2
+S4,2021,2021,2021,4,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,,,76463055,,,0
+S4,2021,2021,2021,4,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,468,,,,126240,,110980628,,,2
+S4,2021,2021,2021,4,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,218,,,,,,119899570,,,0
+S4,2021,2021,2021,4,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,4,,,,8684,,847615,,,2
+S4,2021,2021,2021,4,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,0,,,,125,,1923,,,2
+S4,2021,2021,2021,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,1994,,,,46974,,7337018,,,2
+S4,2021,2021,2021,4,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,89,,,,,,59974600,,,4
+S4,2021,2021,2021,4,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,84924,,243686499,,,6
+S4,2021,2021,2021,4,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,7512,,5507213,,,0
+S4,2021,2021,2021,4,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,1658606,,184129270,,,0
+S4,2021,2021,2021,4,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,24,,,,36217,,25694548,,,6
+S4,2021,2021,2021,4,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,533,,,,1740680,,306267293,,,2
+S4,2021,2021,2021,4,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,0,,,,180,,35862,,,2
+S4,2021,2021,2021,4,0,1,Import,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,0,,,,75,,227,,,2
+S4,2021,2021,2021,4,0,1,Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,0,,,,12,,69,,,2
+S4,2021,2021,2021,4,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,121,,,,702764,,92222424,,,2
+S4,2021,2021,2021,4,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,0,,,,14550,,41689,,,2
+S4,2021,2021,2021,4,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,3535,,1775544,,,0
+S4,2021,2021,2021,4,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,2244,,,,,,186203647,,,6
+S4,2021,2021,2021,4,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,14174,,,,,,918736258,,,2
+S4,2021,2021,2021,4,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,11351,,9835139,,,0
+S4,2021,2021,2021,4,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,20,,,,646028,,36040255,,,0
+S4,2021,2021,2021,4,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,,,15835647,,,0
+S4,2021,2021,2021,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,42,,,,3442,,100089,,,0
+S4,2021,2021,2021,4,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,233344,,299271921,,,2
+S4,2021,2021,2021,4,0,1,Import,748,Eswatini,SWZ,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,3,,,,36,,3471,,,0
+S4,2021,2021,2021,4,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,104873,,17277425,,,4
+S4,2021,2021,2021,4,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,1019,,,,72899,,104591869,,,6
+S4,2021,2021,2021,4,0,1,Import,762,Tajikistan,TJK,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,1,,,,,,714,,,0
+S4,2021,2021,2021,4,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,516,,,,,,225465080,,,2
+S4,2021,2021,2021,4,0,1,Import,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,13,,,,44027,,23618582,,,0
+S4,2021,2021,2021,4,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,1077478,,331164719,,,0
+S4,2021,2021,2021,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,5,,,,7426,,6475711,,,0
+S4,2021,2021,2021,4,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,258,,,,356021,,81209841,,,2
+S4,2021,2021,2021,4,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,97,,,,41967,,19377122,,,2
+S4,2021,2021,2021,4,0,1,Import,807,North Macedonia,MKD,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,465,,22179,,,0
+S4,2021,2021,2021,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,,,22227708,,,6
+S4,2021,2021,2021,4,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,1999,,,,1574775,,668506944,,,6
+S4,2021,2021,2021,4,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,,,10262021,,,6
+S4,2021,2021,2021,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,2182,,,,,,1280333774,,,4
+S4,2021,2021,2021,4,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",5,Number of items,0,,,,643,,42851,,,2
+S4,2021,2021,2021,4,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,10740,,6250380,,,0
+S4,2021,2021,2021,4,0,1,Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,,,52419901,,,6
+S4,2021,2021,2021,4,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,7148,"Gas turbines, n.e.s.",1,No Quantity,0,,,,1351,,5781,,,0
