@@ -1,0 +1,7 @@
+﻿Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Trade Value (US$),Flag
+S4,2019,2019,2019,0,0,1,Import,643,Russian Federation,RUS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,247161342900,4
+S4,2019,2019,2019,0,0,2,Export,643,Russian Federation,RUS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,426720332660,4
+S4,2020,2020,2020,0,0,1,Import,643,Russian Federation,RUS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,231664185422,4
+S4,2020,2020,2020,0,0,2,Export,643,Russian Federation,RUS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,337103969643,4
+S4,2021,2021,2021,0,0,1,Import,643,Russian Federation,RUS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,293497128020,4
+S4,2021,2021,2021,0,0,2,Export,643,Russian Federation,RUS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,492313790696,4
